@@ -1,0 +1,84 @@
+[
+	//基本地形
+	{//乏物深空
+		"name": "terrain_CosmicVoids",
+		"type": "Water",
+		"movementCost": 1,
+		"RGB": [0, 10, 40],
+		"uniques": [
+			"Becomes [terrain_InterstellarMedium] when adjacent to [Land]"
+		]
+	},
+	{//星际介质
+		"name": "terrain_InterstellarMedium",
+		"type": "Water",
+		"movementCost": 1,
+		"RGB": [25, 40, 120],
+		"uniques": [
+            "Every [20] tiles with this terrain will receive a major deposit of a strategic resource."
+		]
+	},
+	{//稀薄星云
+		"name": "terrain_Nebulae",
+		"type": "Land",
+		"movementCost": 1,
+        "RGB": [30, 90, 150],
+        "uniques": [
+			"A Region is formed with at least [50]% [terrain_Nebulae] tiles, with priority [5]"
+            // "Every [10] tiles with this terrain will receive a major deposit of a strategic resource."
+		]
+    },
+	{//星云
+		"name": "terrain_RichNebulae",
+		"type": "Land",
+		"movementCost": 1,
+        "RGB": [30, 90, 150],
+        "uniques": [
+			"Doesn't generate naturally"
+		]
+    },
+	{//星云居住站
+		"name": "terrain_HabitableNebulaStation",
+		"type": "TerrainFeature",
+		"occursOn":["terrain_Nebulae"],
+		"movementCost": 1,
+		"RGB": [30, 90, 150],
+		"uniques": [
+			"Doesn't generate naturally"
+		]
+	},
+
+
+
+
+	{//黑洞
+		"name": "terrain_BlackHole",
+		"type": "TerrainFeature",
+		"occursOn":["terrain_Nebulae"],
+		"movementCost": 1,
+		"RGB": [255, 255, 255],
+		"uniques": [
+			"Doesn't generate naturally"
+		]
+	},
+	{//恒星
+		"name": "terrain_Stellar",
+		"type": "TerrainFeature",
+		"occursOn":["terrain_Nebulae"],
+		"movementCost": 1,
+		"RGB": [255, 255, 255],
+		"uniques": [
+			"Doesn't generate naturally"
+		]
+	},
+	{//行星
+		"name": "terrain_Planetary",
+		"type": "TerrainFeature",
+		"occursOn":["terrain_Nebulae"],
+		"movementCost": 1,
+		"RGB": [50, 100, 150],
+		"uniques": [
+			"Doesn't generate naturally"
+		]
+	}
+]

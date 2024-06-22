@@ -1,0 +1,31 @@
+[
+	{
+		"name": "difficulty_Default",
+		"baseHappiness": 0,
+		"extraHappinessPerLuxury": 0,
+		"researchCostModifier": 1,
+		"unitCostModifier": 1,
+		"unitSupplyBase": 65536,
+		"unitSupplyPerCity": 256,
+		"buildingCostModifier": 1,
+		"policyCostModifier": 1,
+		"unhappinessModifier": 1,
+		"barbarianBonus": 0,
+		"barbarianSpawnDelay": 5,
+		"playerBonusStartingUnits": [],
+		"aiCityGrowthModifier": 1.0,
+		"aiUnitCostModifier": 1.0,
+		"aiBuildingCostModifier": 1.0,
+		"aiWonderCostModifier": 1,
+		"aiBuildingMaintenanceModifier": 1.0,
+		"aiUnitMaintenanceModifier": 1.0,
+		"aiUnitSupplyModifier": 1.0,
+		"aiFreeTechs": [],
+		"aiMajorCivBonusStartingUnits": [],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 1.0,
+		"aisExchangeTechs": false,
+		"turnBarbariansCanEnterPlayerTiles": 0,
+		"clearBarbarianCampReward": 0
+	}
+]

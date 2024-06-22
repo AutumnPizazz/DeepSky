@@ -1,0 +1,43 @@
+
+            {
+                "name":"idt_fanatic_Idealism",
+                "row":1,
+                "column":7,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_Materialism]>",
+                    "Unavailable <after adopting [idt_fanatic_Materialism]>"
+                ]
+            },
+            {
+                "name":"idt_Idealism",
+                "row":2,
+                "column":7,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_Materialism]>",
+                    "Unavailable <after adopting [idt_fanatic_Materialism]>"
+                ]
+            },
+            {
+                "name":"idt_HiveMind",
+                "row":3,
+                "column":7,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_GestaltConsciousness]>"
+                ]
+            },
+            {
+                "name":"idt_GestaltConsciousness",
+                "row":4,
+                "column":7,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_HiveMind]>"
+                ]
+            },

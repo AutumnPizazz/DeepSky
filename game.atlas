@@ -1,0 +1,5214 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/building_Monument
+  rotate: false
+  xy: 598, 176
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/building_Temple
+  rotate: false
+  xy: 734, 176
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+EmojiIcons/Culture
+  rotate: false
+  xy: 312, 33
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+StatIcons/Culture
+  rotate: false
+  xy: 312, 33
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+EmojiIcons/Faith
+  rotate: false
+  xy: 462, 356
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+StatIcons/Faith
+  rotate: false
+  xy: 462, 356
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+EmojiIcons/Food
+  rotate: false
+  xy: 1076, 716
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+StatIcons/Food
+  rotate: false
+  xy: 1076, 716
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+EmojiIcons/Gold
+  rotate: false
+  xy: 462, 220
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+EmojiIcons/Happiness
+  rotate: false
+  xy: 598, 312
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+StatIcons/Happiness
+  rotate: false
+  xy: 598, 312
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+EmojiIcons/Production
+  rotate: false
+  xy: 734, 312
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+StatIcons/Production
+  rotate: false
+  xy: 734, 312
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+EmojiIcons/Science
+  rotate: false
+  xy: 893, 423
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+StatIcons/Science
+  rotate: false
+  xy: 893, 423
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_arcane_tech
+  rotate: false
+  xy: 1284, 874
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_archaeoengineers
+  rotate: false
+  xy: 1284, 874
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_arcology_project
+  rotate: false
+  xy: 1284, 806
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_become_the_crisis
+  rotate: false
+  xy: 1284, 738
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_boarding_pods
+  rotate: false
+  xy: 1449, 1280
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_colossus
+  rotate: false
+  xy: 1509, 1280
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_consecrated_worlds
+  rotate: false
+  xy: 1569, 1280
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_cosmogenesis
+  rotate: false
+  xy: 1629, 1280
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_defender_of_the_galaxy
+  rotate: false
+  xy: 1689, 1280
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_detox
+  rotate: false
+  xy: 1749, 1280
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_engineered_evolution
+  rotate: false
+  xy: 1809, 1280
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_engineered_evolution_old
+  rotate: false
+  xy: 1809, 1280
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_enigmatic_engineering
+  rotate: false
+  xy: 1006, 355
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_eternal_vigilance
+  rotate: false
+  xy: 1006, 287
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_evolutionary_mastery
+  rotate: false
+  xy: 1006, 219
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_executive_vigor
+  rotate: false
+  xy: 1006, 151
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_galactic_contender
+  rotate: false
+  xy: 1006, 83
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_galactic_force_projection
+  rotate: false
+  xy: 1006, 15
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_galactic_wonders_megacorp
+  rotate: false
+  xy: 1066, 363
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_galactic_wonders_utopia
+  rotate: false
+  xy: 1066, 363
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_galactic_wonders_utopia_and_megacorp
+  rotate: false
+  xy: 1066, 363
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_grasp_the_void
+  rotate: false
+  xy: 1066, 295
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_hive_worlds
+  rotate: false
+  xy: 1066, 227
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_hydrocentric
+  rotate: false
+  xy: 1066, 159
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_imperial_prerogative
+  rotate: false
+  xy: 1066, 91
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_interstellar_dominion
+  rotate: false
+  xy: 1066, 23
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_lord_of_war
+  rotate: false
+  xy: 1233, 648
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_machine_worlds
+  rotate: false
+  xy: 1293, 670
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_master_builders
+  rotate: false
+  xy: 1293, 602
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_mastery_of_nature
+  rotate: false
+  xy: 1332, 1240
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_mechromancy
+  rotate: false
+  xy: 1332, 1172
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_mind_over_matter
+  rotate: false
+  xy: 1332, 1104
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_nihilistic_acquisition
+  rotate: false
+  xy: 1344, 934
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_one_vision
+  rotate: false
+  xy: 1344, 866
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_organo_machine_interfacing
+  rotate: false
+  xy: 1344, 798
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_the_flesh_is_weak
+  rotate: false
+  xy: 1344, 798
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_shared_destiny
+  rotate: false
+  xy: 1350, 1036
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_synthetic_age
+  rotate: false
+  xy: 1392, 1212
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_synthetic_evolution
+  rotate: false
+  xy: 1452, 1212
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_technological_ascendancy
+  rotate: false
+  xy: 1392, 1144
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_the_circle_of_life
+  rotate: false
+  xy: 1512, 1212
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_transcendence
+  rotate: false
+  xy: 1452, 1144
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_transcendent_learning
+  rotate: false
+  xy: 1572, 1212
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_universal_transactions
+  rotate: false
+  xy: 1512, 1144
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_voidborn
+  rotate: false
+  xy: 1632, 1212
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_world_shaper
+  rotate: false
+  xy: 1572, 1144
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/ap_xeno_compatibility
+  rotate: false
+  xy: 1692, 1212
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/slot_available
+  rotate: false
+  xy: 1692, 1144
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+PolicyIcons/slot_locked
+  rotate: false
+  xy: 1752, 1154
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+Portraits/Background
+  rotate: false
+  xy: 1284, 942
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/Background
+  rotate: false
+  xy: 1284, 942
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+UnitIcons/Background
+  rotate: false
+  xy: 1284, 942
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+Portraits/test
+  rotate: false
+  xy: 1940, 1700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/resource_Alloy
+  rotate: false
+  xy: 870, 287
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ResourceIcons/resource_ConsumerGoods
+  rotate: false
+  xy: 870, 151
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ResourceIcons/resource_Labor
+  rotate: false
+  xy: 462, 84
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ResourceIcons/resource_Mine
+  rotate: false
+  xy: 598, 40
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ResourceIcons/resource_PortableFood
+  rotate: false
+  xy: 734, 40
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Skins/DeepSky - given up/TEST
+  rotate: false
+  xy: 1076, 852
+  size: 200, 200
+  split: 48, 48, 40, 40
+  pad: 60, 60, 40, 40
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Skins/DeepSky - given up/bottombarstats
+  rotate: false
+  xy: 239, 4
+  size: 61, 21
+  split: 15, 14, 4, 13
+  pad: 0, 0, 0, 0
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+Skins/DeepSky - given up/notification
+  rotate: false
+  xy: 1344, 740
+  size: 52, 50
+  split: 19, 20, 19, 21
+  pad: 12, 13, 7, 7
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+Skins/DeepSky - given up/roundedEdgeRectangle
+  rotate: false
+  xy: 1752, 1222
+  size: 52, 50
+  split: 19, 20, 19, 21
+  pad: 12, 13, 7, 7
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+Skins/DeepSky - given up/select-box
+  rotate: false
+  xy: 166, 4
+  size: 65, 21
+  split: 21, 21, 6, 6
+  pad: 0, 0, 0, 0
+  orig: 65, 21
+  offset: 0, 0
+  index: -1
+Skins/DeepSky - given up/select-box-pressed
+  rotate: false
+  xy: 93, 4
+  size: 65, 21
+  split: 21, 21, 6, 6
+  pad: 0, 0, 0, 0
+  orig: 65, 21
+  offset: 0, 0
+  index: -1
+Skins/DeepSky - given up/topbarstats
+  rotate: false
+  xy: 308, 4
+  size: 61, 21
+  split: 14, 14, 12, 7
+  pad: 0, 0, 0, 0
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+StatIcons/Gold
+  rotate: false
+  xy: 1940, 1944
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechPortraits/null_void_beam
+  rotate: false
+  xy: 1284, 1002
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+TechPortraits/repeatable_diplomacy_tech
+  rotate: false
+  xy: 1632, 1152
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_adaptive_bureaucracy
+  rotate: false
+  xy: 1812, 1220
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_adaptive_combat_algorithms
+  rotate: false
+  xy: 1812, 1160
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_administrative_ai
+  rotate: false
+  xy: 1353, 680
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_advanced_metallurgy
+  rotate: false
+  xy: 1353, 620
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_advanced_metallurgy
+  rotate: false
+  xy: 1410, 1084
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_afterburners
+  rotate: false
+  xy: 1470, 1084
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_afterburners
+  rotate: false
+  xy: 1530, 1084
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_akx_worm
+  rotate: false
+  xy: 1410, 1024
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_akx_worm
+  rotate: false
+  xy: 1470, 1024
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_akx_worm
+  rotate: false
+  xy: 1530, 1024
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_alien_life_studies
+  rotate: false
+  xy: 1590, 1084
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_alien_sanctuary
+  rotate: false
+  xy: 1590, 1024
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_alien_topography
+  rotate: false
+  xy: 1404, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_alloys
+  rotate: false
+  xy: 1404, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_alloys
+  rotate: false
+  xy: 1464, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_alloys
+  rotate: false
+  xy: 1404, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_amoeba_strike_craft
+  rotate: false
+  xy: 1464, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_antimatter_power
+  rotate: false
+  xy: 1524, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_arc_emitter
+  rotate: false
+  xy: 1404, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_arc_emitter
+  rotate: false
+  xy: 1464, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_arcane_deciphering
+  rotate: false
+  xy: 1524, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_archaeo_detection_scrambler
+  rotate: false
+  xy: 1584, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_archaeo_lasers
+  rotate: false
+  xy: 1464, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_archaeo_mass_accelerator
+  rotate: false
+  xy: 1524, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_archaeo_mass_drivers
+  rotate: false
+  xy: 1584, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_archaeo_missiles
+  rotate: false
+  xy: 1524, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_archaeo_overcharger
+  rotate: false
+  xy: 1584, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_archaeo_pk_devolving_beam
+  rotate: false
+  xy: 1584, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_archaeo_point_defence
+  rotate: false
+  xy: 1353, 560
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_archaeo_rampart
+  rotate: false
+  xy: 1650, 1084
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_archaeo_refinery
+  rotate: false
+  xy: 1650, 1024
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_archaeo_strike_crafts
+  rotate: false
+  xy: 1644, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_archaeo_titan_beam
+  rotate: false
+  xy: 1644, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_archaeoarmor
+  rotate: false
+  xy: 1644, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_archaeoshield
+  rotate: false
+  xy: 1644, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_archaeostudies
+  rotate: false
+  xy: 1710, 1084
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_archeology_lab
+  rotate: false
+  xy: 1710, 1024
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_armor_hardeners
+  rotate: false
+  xy: 1704, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_armor_hardeners
+  rotate: false
+  xy: 1704, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_artificial_moral_codes
+  rotate: false
+  xy: 1704, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_collective_production_methods
+  rotate: false
+  xy: 1704, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_ascension_theory
+  rotate: false
+  xy: 1704, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_ascension_theory_apoc
+  rotate: false
+  xy: 1704, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_assault_armies
+  rotate: false
+  xy: 1770, 1094
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_assembly_pattern
+  rotate: false
+  xy: 1770, 1034
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_assisted_detection
+  rotate: false
+  xy: 1830, 1100
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_astral_harvesting
+  rotate: false
+  xy: 1830, 1040
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_atmospheric_manipulation
+  rotate: false
+  xy: 1413, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_atmospheric_orbital_mechanics
+  rotate: false
+  xy: 1413, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_autocannons
+  rotate: false
+  xy: 1473, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_autocannons
+  rotate: false
+  xy: 1413, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_autocannons
+  rotate: false
+  xy: 1473, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_autocurating_vault
+  rotate: false
+  xy: 1533, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_automated_exploration
+  rotate: false
+  xy: 1473, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_autonomous_agents
+  rotate: false
+  xy: 1533, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_living_state
+  rotate: false
+  xy: 1533, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_auxiliary_fire_control
+  rotate: false
+  xy: 1593, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_basic_industry
+  rotate: false
+  xy: 1533, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_basic_science_lab1
+  rotate: false
+  xy: 1593, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_basic_science_lab2
+  rotate: false
+  xy: 1653, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_basic_science_lab3
+  rotate: false
+  xy: 1593, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_battleship_build_speed
+  rotate: false
+  xy: 1653, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_battleship_hull
+  rotate: false
+  xy: 1653, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_battleship_hull
+  rotate: false
+  xy: 1713, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_battleships
+  rotate: false
+  xy: 1713, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_binary_motivators
+  rotate: false
+  xy: 1713, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_robomodding_points
+  rotate: false
+  xy: 1713, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_bio_reactor
+  rotate: false
+  xy: 1413, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_bio_reactor
+  rotate: false
+  xy: 1473, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_biomechanics
+  rotate: false
+  xy: 1533, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_synthetic_self_maintaining_shell
+  rotate: false
+  xy: 1533, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_btc
+  rotate: false
+  xy: 1593, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_pk_nanobots
+  rotate: false
+  xy: 1593, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_capacity_boosters
+  rotate: false
+  xy: 1653, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_capital_productivity
+  rotate: false
+  xy: 1713, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_capital_productivity
+  rotate: false
+  xy: 1872, 1232
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_capital_productivity
+  rotate: false
+  xy: 1872, 1172
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_centralized_command
+  rotate: false
+  xy: 1890, 1112
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_climate_restoration
+  rotate: false
+  xy: 1890, 1052
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_cloaking
+  rotate: false
+  xy: 1890, 992
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_cloaking
+  rotate: false
+  xy: 1830, 980
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_cloaking
+  rotate: false
+  xy: 1770, 974
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_cloaking_psi
+  rotate: false
+  xy: 1764, 914
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_clone_soldier_fertility
+  rotate: false
+  xy: 1764, 854
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_genetic_resequencing
+  rotate: false
+  xy: 1764, 854
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_cloning
+  rotate: false
+  xy: 1764, 794
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_cold_fusion_power
+  rotate: false
+  xy: 1773, 734
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_collective_self
+  rotate: false
+  xy: 1773, 674
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_embodied_dynamism
+  rotate: false
+  xy: 1773, 674
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_colonial_bureaucracy
+  rotate: false
+  xy: 1773, 614
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_colonial_centralization
+  rotate: false
+  xy: 1773, 554
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_colonization
+  rotate: false
+  xy: 1890, 932
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_colonization
+  rotate: false
+  xy: 1830, 920
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_colonization
+  rotate: false
+  xy: 1824, 860
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_colonization
+  rotate: false
+  xy: 1824, 800
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 4
+TechPortraits/tech_colonization
+  rotate: false
+  xy: 1833, 740
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 5
+TechPortraits/tech_colossus
+  rotate: false
+  xy: 1833, 680
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_combat_computers
+  rotate: false
+  xy: 1833, 620
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_combat_computers
+  rotate: false
+  xy: 1833, 560
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_combat_computers
+  rotate: false
+  xy: 1890, 872
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_combat_computers_autonomous
+  rotate: false
+  xy: 1890, 872
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_combat_training
+  rotate: false
+  xy: 1884, 812
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_command_matrix
+  rotate: false
+  xy: 1893, 752
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_compact_living
+  rotate: false
+  xy: 1893, 692
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_consecration_fields
+  rotate: false
+  xy: 1893, 632
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_construction_templates
+  rotate: false
+  xy: 1893, 572
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_consumer_good_refinement
+  rotate: false
+  xy: 1944, 812
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_consumer_good_refinement
+  rotate: false
+  xy: 1953, 752
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_corvette_build_speed
+  rotate: false
+  xy: 1953, 692
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_corvette_hull
+  rotate: false
+  xy: 1953, 632
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_corvette_hull
+  rotate: false
+  xy: 1953, 572
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_corvettes
+  rotate: false
+  xy: 1893, 512
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_cosmogenesis_FE_titan
+  rotate: false
+  xy: 1953, 512
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_cosmogenesis_battlecruiser
+  rotate: false
+  xy: 1833, 500
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_cosmogenesis_crisis
+  rotate: false
+  xy: 1773, 494
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_cosmogenesis_crisis
+  rotate: false
+  xy: 1893, 452
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_cosmogenesis_crisis
+  rotate: false
+  xy: 1953, 452
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_cosmogenesis_crisis
+  rotate: false
+  xy: 1833, 440
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 4
+TechPortraits/tech_cosmogenesis_crisis
+  rotate: false
+  xy: 1893, 392
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 5
+TechPortraits/tech_cosmogenesis_escort
+  rotate: false
+  xy: 1953, 392
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_cosmogenesis_thesis
+  rotate: false
+  xy: 1075, 632
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_cosmogenesis_world
+  rotate: false
+  xy: 1075, 572
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_covenant_composer
+  rotate: false
+  xy: 1135, 616
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_covenant_instrument
+  rotate: false
+  xy: 1135, 616
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_covenant_whisperers
+  rotate: false
+  xy: 1135, 616
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_critter_feeder
+  rotate: false
+  xy: 1135, 556
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_cruiser_build_speed
+  rotate: false
+  xy: 1101, 496
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_cruiser_hull
+  rotate: false
+  xy: 1101, 436
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_cruiser_hull
+  rotate: false
+  xy: 1161, 496
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_cruisers
+  rotate: false
+  xy: 1161, 436
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_cryostasis
+  rotate: false
+  xy: 1126, 376
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_cryostasis
+  rotate: false
+  xy: 1126, 316
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_crystal_armor
+  rotate: false
+  xy: 1126, 256
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_crystal_armor
+  rotate: false
+  xy: 1126, 196
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_cultural_heritage
+  rotate: false
+  xy: 1126, 136
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_curator_lab
+  rotate: false
+  xy: 1126, 76
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_cybernetic_brain_implants
+  rotate: false
+  xy: 1126, 16
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_cybernetic_brain_implants
+  rotate: false
+  xy: 1186, 376
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_cybernetic_brain_implants
+  rotate: false
+  xy: 1186, 316
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_cybernetic_power_saving
+  rotate: false
+  xy: 1186, 256
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_integrated_cybernetics
+  rotate: false
+  xy: 1186, 256
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_dangerous_wildlife
+  rotate: false
+  xy: 1186, 196
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_dark_matter_deflector
+  rotate: false
+  xy: 1186, 136
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_dark_matter_detection
+  rotate: false
+  xy: 1186, 76
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_dark_matter_power_core
+  rotate: false
+  xy: 1186, 16
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_dark_matter_propulsion
+  rotate: false
+  xy: 1195, 588
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_databank_uplinks
+  rotate: false
+  xy: 1221, 528
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_decryption
+  rotate: false
+  xy: 1221, 468
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_decryption
+  rotate: false
+  xy: 1281, 542
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_decryption
+  rotate: false
+  xy: 1281, 482
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_deep_sinkhole
+  rotate: false
+  xy: 1341, 500
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_defense_platform_hull
+  rotate: false
+  xy: 1401, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_dense_jungle
+  rotate: false
+  xy: 1461, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_destroyer_build_speed
+  rotate: false
+  xy: 1521, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_destroyer_hull
+  rotate: false
+  xy: 1581, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_destroyer_hull
+  rotate: false
+  xy: 1641, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_destroyers
+  rotate: false
+  xy: 1701, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_detection_array
+  rotate: false
+  xy: 1341, 440
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_disruptors
+  rotate: false
+  xy: 1281, 422
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_disruptors
+  rotate: false
+  xy: 1401, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_disruptors
+  rotate: false
+  xy: 1461, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_doctrine_fleet_size
+  rotate: false
+  xy: 1521, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_doctrine_fleet_size
+  rotate: false
+  xy: 1581, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_doctrine_fleet_size
+  rotate: false
+  xy: 1641, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_doctrine_fleet_size
+  rotate: false
+  xy: 1701, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 4
+TechPortraits/tech_doctrine_fleet_size
+  rotate: false
+  xy: 1761, 434
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 5
+TechPortraits/tech_doctrine_navy_size
+  rotate: false
+  xy: 1341, 380
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_doctrine_navy_size
+  rotate: false
+  xy: 1401, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_doctrine_navy_size
+  rotate: false
+  xy: 1461, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_doctrine_navy_size
+  rotate: false
+  xy: 1521, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 4
+TechPortraits/tech_dragon_armor
+  rotate: false
+  xy: 1581, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_droid_workers
+  rotate: false
+  xy: 1641, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_dyson_sphere
+  rotate: false
+  xy: 1701, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_dyson_swarm
+  rotate: false
+  xy: 1761, 374
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_eco_simulation
+  rotate: false
+  xy: 1821, 380
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_ecological_adaptation
+  rotate: false
+  xy: 1246, 362
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_effective_bureaucracy
+  rotate: false
+  xy: 1246, 302
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_encryption
+  rotate: false
+  xy: 1246, 242
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_encryption
+  rotate: false
+  xy: 1246, 182
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_encryption
+  rotate: false
+  xy: 1246, 122
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_energy_lance
+  rotate: false
+  xy: 1246, 62
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_energy_lance
+  rotate: false
+  xy: 1306, 320
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_energy_torpedoes
+  rotate: false
+  xy: 1306, 260
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_energy_torpedoes
+  rotate: false
+  xy: 1306, 200
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_engineering
+  rotate: false
+  xy: 1306, 140
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_engineering
+  rotate: false
+  xy: 1306, 80
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_engineering
+  rotate: false
+  xy: 1366, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_engineering
+  rotate: false
+  xy: 1366, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 4
+TechPortraits/tech_enigmatic_decoder
+  rotate: false
+  xy: 1426, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_enigmatic_encoder
+  rotate: false
+  xy: 1366, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_epigenetic_triggers
+  rotate: false
+  xy: 1426, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_executive_retreat
+  rotate: false
+  xy: 1486, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_exotic_gases
+  rotate: false
+  xy: 1366, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_experimental_subspace_navigation
+  rotate: false
+  xy: 1426, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_extradimensional_weapon
+  rotate: false
+  xy: 1486, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_fe_administration
+  rotate: false
+  xy: 1546, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_fe_administration
+  rotate: false
+  xy: 1426, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_fe_affluence
+  rotate: false
+  xy: 1486, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_fe_affluence
+  rotate: false
+  xy: 1546, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_fe_assembly
+  rotate: false
+  xy: 1606, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_fe_assembly
+  rotate: false
+  xy: 1486, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_fe_clinic
+  rotate: false
+  xy: 1546, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_fe_clinic
+  rotate: false
+  xy: 1606, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_fe_dome
+  rotate: false
+  xy: 1666, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_fe_dome
+  rotate: false
+  xy: 1546, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_fe_entertainment
+  rotate: false
+  xy: 1606, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_fe_entertainment
+  rotate: false
+  xy: 1666, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_fe_fabricator
+  rotate: false
+  xy: 1606, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_fe_fabricator
+  rotate: false
+  xy: 1666, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_fe_forge
+  rotate: false
+  xy: 1666, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_fe_forge
+  rotate: false
+  xy: 1366, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_fe_fortress
+  rotate: false
+  xy: 1426, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_fe_fortress
+  rotate: false
+  xy: 1486, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_fe_lab
+  rotate: false
+  xy: 1546, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_fe_lab
+  rotate: false
+  xy: 1606, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_fe_market
+  rotate: false
+  xy: 1666, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_fe_market
+  rotate: false
+  xy: 1726, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_fe_mine
+  rotate: false
+  xy: 1726, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_fe_mine
+  rotate: false
+  xy: 1726, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_fe_nourishment
+  rotate: false
+  xy: 1726, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_fe_nourishment
+  rotate: false
+  xy: 1726, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_fe_security
+  rotate: false
+  xy: 1306, 20
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_fe_security
+  rotate: false
+  xy: 1366, 4
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_fe_silo
+  rotate: false
+  xy: 1426, 4
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_fe_silo
+  rotate: false
+  xy: 1486, 4
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_fe_singularity
+  rotate: false
+  xy: 1546, 4
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_fe_singularity
+  rotate: false
+  xy: 1606, 4
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_fission_power
+  rotate: false
+  xy: 1666, 4
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_flak_batteries
+  rotate: false
+  xy: 1726, 4
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_flak_batteries
+  rotate: false
+  xy: 1786, 314
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_flak_batteries
+  rotate: false
+  xy: 1786, 254
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_food_processing
+  rotate: false
+  xy: 1786, 194
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_food_processing
+  rotate: false
+  xy: 1786, 134
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_frontier_health
+  rotate: false
+  xy: 1786, 74
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_frontier_hospital
+  rotate: false
+  xy: 1786, 74
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_intelligent_factories
+  rotate: false
+  xy: 1786, 74
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_modular_components
+  rotate: false
+  xy: 1786, 74
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_ftl_inhibitor
+  rotate: false
+  xy: 1786, 14
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_fusion_power
+  rotate: false
+  xy: 1846, 320
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_galactic_administration
+  rotate: false
+  xy: 1846, 260
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_galactic_ambitions
+  rotate: false
+  xy: 1846, 200
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_galactic_bureaucracy
+  rotate: false
+  xy: 1846, 140
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_galactic_campaigns
+  rotate: false
+  xy: 1846, 80
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_galactic_markets
+  rotate: false
+  xy: 1846, 20
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_gargantuan_evolution
+  rotate: false
+  xy: 1906, 332
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_gateway_activation
+  rotate: false
+  xy: 1906, 272
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_gateway_construction
+  rotate: false
+  xy: 1906, 212
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_gene_banks
+  rotate: false
+  xy: 1906, 152
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_gene_crops
+  rotate: false
+  xy: 1906, 92
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_gene_expressions
+  rotate: false
+  xy: 1906, 32
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_gene_seed_purification
+  rotate: false
+  xy: 1966, 332
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_gene_tailoring
+  rotate: false
+  xy: 1966, 272
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_genetic_dna_compatibility
+  rotate: false
+  xy: 1966, 272
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_genetic_resequencing_cleanup
+  rotate: false
+  xy: 1966, 212
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_genetic_resequencing_cleanup
+  rotate: false
+  xy: 1966, 152
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_genetic_resequencing_cleanup
+  rotate: false
+  xy: 1966, 92
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_genome_mapping
+  rotate: false
+  xy: 1966, 32
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_glandular_acclimation
+  rotate: false
+  xy: 1950, 1169
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_global_defense_grid
+  rotate: false
+  xy: 1950, 1109
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_global_production_strategy
+  rotate: false
+  xy: 1950, 1049
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_global_research_initiative
+  rotate: false
+  xy: 1950, 989
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_ground_defense_planning
+  rotate: false
+  xy: 1950, 929
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Arrows/Generic
+  rotate: false
+  xy: 1292, 1348
+  size: 300, 128
+  orig: 300, 128
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Arrows/UnitAttacked
+  rotate: false
+  xy: 4, 492
+  size: 600, 256
+  orig: 600, 256
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Arrows/UnitHasAttacked
+  rotate: false
+  xy: 4, 33
+  size: 300, 128
+  orig: 300, 128
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Arrows/UnitMoved
+  rotate: false
+  xy: 652, 1060
+  size: 600, 256
+  orig: 600, 256
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Arrows/UnitMoving
+  rotate: false
+  xy: 1600, 1348
+  size: 300, 128
+  orig: 300, 128
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Arrows/UnitTeleported
+  rotate: false
+  xy: 1940, 1876
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Arrows/UnitWithdrew
+  rotate: false
+  xy: 1940, 1808
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Borders/ConcaveConvexInner
+  rotate: false
+  xy: 1292, 1325
+  size: 81, 15
+  orig: 81, 15
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Borders/ConcaveInner
+  rotate: false
+  xy: 1076, 693
+  size: 81, 15
+  orig: 81, 15
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Borders/ConvexConcaveInner
+  rotate: false
+  xy: 4, 10
+  size: 81, 15
+  orig: 81, 15
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Borders/ConvexInner
+  rotate: false
+  xy: 1940, 1677
+  size: 81, 15
+  orig: 81, 15
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Crosshair
+  rotate: false
+  xy: 893, 559
+  size: 174, 125
+  orig: 174, 125
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/CrosshatchHexagon
+  rotate: false
+  xy: 612, 448
+  size: 273, 236
+  orig: 273, 236
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Hexagon
+  rotate: false
+  xy: 652, 692
+  size: 416, 360
+  orig: 416, 360
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Highlight
+  rotate: false
+  xy: 4, 169
+  size: 450, 315
+  orig: 450, 315
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Landform.Nuclear fallout
+  rotate: false
+  xy: 1212, 780
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Railroad
+  rotate: false
+  xy: 1165, 676
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Road
+  rotate: false
+  xy: 1381, 1308
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles - 副本/standard-terrain
+  rotate: false
+  xy: 1212, 716
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles - 副本/terrain_BlackHole
+  rotate: false
+  xy: 1940, 1485
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles - 副本/terrain_CosmicVoids
+  rotate: false
+  xy: 1029, 431
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles - 副本/terrain_HabitableNebulaStation
+  rotate: false
+  xy: 520, 20
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles - 副本/terrain_InterstellarMedium
+  rotate: false
+  xy: 1980, 1421
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles - 副本/terrain_Nebulae
+  rotate: false
+  xy: 1908, 1356
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles - 副本/terrain_Planetary
+  rotate: false
+  xy: 1908, 1292
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles - 副本/terrain_RichNebulae
+  rotate: false
+  xy: 1260, 1260
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles - 副本/terrain_Stellar
+  rotate: false
+  xy: 1260, 1132
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/standard-terrain
+  rotate: false
+  xy: 1940, 1613
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/terrain_BlackHole
+  rotate: false
+  xy: 1940, 1549
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/terrain_CosmicVoids
+  rotate: false
+  xy: 1029, 495
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/terrain_HabitableNebulaStation
+  rotate: false
+  xy: 448, 20
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/terrain_InterstellarMedium
+  rotate: false
+  xy: 1908, 1420
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/terrain_Nebulae
+  rotate: false
+  xy: 1980, 1357
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/terrain_Planetary
+  rotate: false
+  xy: 1980, 1293
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/terrain_RichNebulae
+  rotate: false
+  xy: 1980, 1229
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/terrain_Stellar
+  rotate: false
+  xy: 1260, 1196
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/行星
+  rotate: false
+  xy: 1260, 1068
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/行星矢量图
+  rotate: false
+  xy: 4, 1324
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/unit_ColonialPioneer
+  rotate: false
+  xy: 4, 756
+  size: 640, 560
+  orig: 640, 560
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/unit_NebulaStationBuilder
+  rotate: false
+  xy: 1292, 1484
+  size: 640, 560
+  orig: 640, 560
+  offset: 0, 0
+  index: -1
+UnitIcons/unit_ColonialPioneer
+  rotate: false
+  xy: 870, 15
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/idt_Authoritarianism
+  rotate: false
+  xy: 1264, 687
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+PolicyIcons/idt_Egalitarianism
+  rotate: false
+  xy: 1324, 747
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+PolicyIcons/idt_GestaltConsciousness
+  rotate: false
+  xy: 1384, 807
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+PolicyIcons/idt_HiveMind
+  rotate: false
+  xy: 1144, 560
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+PolicyIcons/idt_Idealism
+  rotate: false
+  xy: 1444, 867
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+PolicyIcons/idt_Materialism
+  rotate: false
+  xy: 1504, 927
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+PolicyIcons/idt_Militarism
+  rotate: false
+  xy: 1564, 987
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+PolicyIcons/idt_Pacifism
+  rotate: false
+  xy: 664, 27
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+PolicyIcons/idt_Xenophilia
+  rotate: false
+  xy: 724, 87
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+PolicyIcons/idt_Xenophobia
+  rotate: false
+  xy: 784, 147
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+PolicyIcons/idt_fanatic_Authoritarianism
+  rotate: false
+  xy: 844, 207
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+PolicyIcons/idt_fanatic_Egalitarianism
+  rotate: false
+  xy: 904, 267
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+PolicyIcons/idt_fanatic_Idealism
+  rotate: false
+  xy: 964, 332
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+PolicyIcons/idt_fanatic_Materialism
+  rotate: false
+  xy: 1601, 987
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+PolicyIcons/idt_fanatic_Militarism
+  rotate: false
+  xy: 1638, 987
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+PolicyIcons/idt_fanatic_Pacifism
+  rotate: false
+  xy: 1675, 987
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+PolicyIcons/idt_fanatic_Xenophilia
+  rotate: false
+  xy: 1712, 987
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+PolicyIcons/idt_fanatic_Xenophobia
+  rotate: false
+  xy: 1749, 987
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+Skins/DeepSky - given up/boxempty
+  rotate: false
+  xy: 1883, 995
+  size: 21, 21
+  split: 4, 4, 4, 4
+  pad: 0, 0, 0, 0
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Skins/DeepSky - given up/checkbox
+  rotate: false
+  xy: 1941, 995
+  size: 21, 21
+  split: 8, 8, 8, 8
+  pad: 0, 0, 0, 0
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Skins/DeepSky - given up/checkbox-pressed
+  rotate: false
+  xy: 1912, 995
+  size: 21, 21
+  split: 8, 8, 8, 8
+  pad: 0, 0, 0, 0
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Skins/DeepSky - given up/checkboxbottom
+  rotate: false
+  xy: 1204, 611
+  size: 21, 9
+  split: 7, 7, 0, 5
+  pad: 0, 0, 0, 0
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+Skins/DeepSky - given up/checkboxtop
+  rotate: false
+  xy: 1264, 670
+  size: 21, 9
+  split: 7, 7, 5, 0
+  pad: 0, 0, 0, 0
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+Skins/DeepSky - given up/cityInfotable
+  rotate: false
+  xy: 1852, 976
+  size: 23, 40
+  split: 8, 8, 2, 2
+  pad: 0, 0, 0, 0
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+Skins/DeepSky - given up/minimap_border
+  rotate: false
+  xy: 964, 369
+  size: 47, 47
+  split: 12, 12, 12, 12
+  pad: 0, 0, 0, 0
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+Skins/DeepSky - given up/minimap_inside
+  rotate: false
+  xy: 1024, 429
+  size: 47, 47
+  split: 11, 11, 11, 11
+  pad: 0, 0, 0, 0
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+Skins/DeepSky - given up/rectangleWithOutline
+  rotate: false
+  xy: 1786, 990
+  size: 26, 26
+  split: 8, 9, 8, 9
+  pad: 0, 0, 0, 0
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Skins/DeepSky - given up/thinrectangle
+  rotate: false
+  xy: 1244, 647
+  size: 9, 9
+  split: 3, 3, 3, 3
+  pad: 0, 0, 0, 0
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+Skins/DeepSky - given up/unitstat
+  rotate: false
+  xy: 1820, 992
+  size: 24, 24
+  split: 2, 14, 14, 2
+  pad: 0, 0, 0, 0
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_habitat
+  rotate: false
+  xy: 4, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_habitat
+  rotate: false
+  xy: 4, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_habitat
+  rotate: false
+  xy: 64, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_heritage_site
+  rotate: false
+  xy: 4, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_hive_confluence
+  rotate: false
+  xy: 64, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_hive_node
+  rotate: false
+  xy: 124, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_holo_entertainment
+  rotate: false
+  xy: 4, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_holographic_rituals
+  rotate: false
+  xy: 64, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_housing
+  rotate: false
+  xy: 124, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_housing
+  rotate: false
+  xy: 184, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_housing_agrarian_idyll
+  rotate: false
+  xy: 4, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_hydroponics
+  rotate: false
+  xy: 64, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_hyper_drive
+  rotate: false
+  xy: 124, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_hyper_drive
+  rotate: false
+  xy: 184, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_hyper_drive
+  rotate: false
+  xy: 244, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_hyper_entertainment_forum
+  rotate: false
+  xy: 4, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_hyper_relays
+  rotate: false
+  xy: 64, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_hypercomms_forum
+  rotate: false
+  xy: 124, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_identity_copy
+  rotate: false
+  xy: 184, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_identity_fusion
+  rotate: false
+  xy: 244, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_identity_initialization
+  rotate: false
+  xy: 304, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_industrial_farming
+  rotate: false
+  xy: 4, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_insterstellar_economics
+  rotate: false
+  xy: 64, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_interplanetary_commerce
+  rotate: false
+  xy: 124, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_interstellar_assembly
+  rotate: false
+  xy: 184, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_interstellar_campaigns
+  rotate: false
+  xy: 244, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_interstellar_economics
+  rotate: false
+  xy: 304, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_interstellar_fleet_traditions
+  rotate: false
+  xy: 364, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_juggernaut
+  rotate: false
+  xy: 4, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_jump_drive
+  rotate: false
+  xy: 64, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_kinetic_artillery
+  rotate: false
+  xy: 124, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_kinetic_artillery
+  rotate: false
+  xy: 184, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_lasers
+  rotate: false
+  xy: 244, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_lasers
+  rotate: false
+  xy: 304, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_lasers
+  rotate: false
+  xy: 364, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_lasers
+  rotate: false
+  xy: 424, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 4
+TechPortraits/tech_lasers
+  rotate: false
+  xy: 4, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 5
+TechPortraits/tech_lathe_cogitator
+  rotate: false
+  xy: 64, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_lathe_life_support
+  rotate: false
+  xy: 124, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_lathe_overclocker
+  rotate: false
+  xy: 184, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_lathe_preserver
+  rotate: false
+  xy: 244, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_lathe_resonator
+  rotate: false
+  xy: 304, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_lathe_validator
+  rotate: false
+  xy: 364, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_leviathan_techgenesis
+  rotate: false
+  xy: 424, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_leviathan_transgenesis
+  rotate: false
+  xy: 484, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_lgate_activation
+  rotate: false
+  xy: 4, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_lcluster_clue
+  rotate: false
+  xy: 4, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_lithoid_transgenesis
+  rotate: false
+  xy: 64, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_lost_building_methods
+  rotate: false
+  xy: 124, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_luxuries
+  rotate: false
+  xy: 184, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_luxuries
+  rotate: false
+  xy: 244, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_lythuric_gas
+  rotate: false
+  xy: 304, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_manifest_destiny
+  rotate: false
+  xy: 364, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_mass_accelerator
+  rotate: false
+  xy: 424, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_mass_accelerator
+  rotate: false
+  xy: 484, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_mass_drivers
+  rotate: false
+  xy: 544, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_mass_drivers
+  rotate: false
+  xy: 4, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_mass_drivers
+  rotate: false
+  xy: 64, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_mass_drivers
+  rotate: false
+  xy: 124, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 4
+TechPortraits/tech_mass_drivers
+  rotate: false
+  xy: 184, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 5
+TechPortraits/tech_massive_glacier
+  rotate: false
+  xy: 244, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_matter_decompressor
+  rotate: false
+  xy: 304, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_mechanized_mining
+  rotate: false
+  xy: 364, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_mega_art
+  rotate: false
+  xy: 424, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_mega_assembly
+  rotate: false
+  xy: 484, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_mega_engineering
+  rotate: false
+  xy: 544, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_mega_shipyard
+  rotate: false
+  xy: 604, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_micro_replicators
+  rotate: false
+  xy: 4, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_mine_betharian
+  rotate: false
+  xy: 64, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_mine_living_metal
+  rotate: false
+  xy: 124, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_mine_rare_crystals
+  rotate: false
+  xy: 184, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_mine_zro
+  rotate: false
+  xy: 244, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_mineral_purification
+  rotate: false
+  xy: 304, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_mineral_purification
+  rotate: false
+  xy: 364, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_mining
+  rotate: false
+  xy: 424, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_mining
+  rotate: false
+  xy: 484, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_mining
+  rotate: false
+  xy: 544, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_mining_drone_weapon
+  rotate: false
+  xy: 604, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_missiles
+  rotate: false
+  xy: 664, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_missiles
+  rotate: false
+  xy: 4, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_missiles
+  rotate: false
+  xy: 64, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_missiles
+  rotate: false
+  xy: 124, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 4
+TechPortraits/tech_missiles
+  rotate: false
+  xy: 184, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 5
+TechPortraits/tech_modular_engineering
+  rotate: false
+  xy: 244, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_morphogenetic_field_mastery
+  rotate: false
+  xy: 304, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_mountain_range
+  rotate: false
+  xy: 364, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_nanite_assemblers
+  rotate: false
+  xy: 424, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_robomodding_points
+  rotate: false
+  xy: 424, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_nanite_autocannon
+  rotate: false
+  xy: 484, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_nanite_flak_batteries
+  rotate: false
+  xy: 544, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_nanite_repair_system
+  rotate: false
+  xy: 604, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_nanite_repair_system_synth_queen
+  rotate: false
+  xy: 664, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_nanite_transmutation
+  rotate: false
+  xy: 724, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_nano_vitality_crops
+  rotate: false
+  xy: 4, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_neural_implants
+  rotate: false
+  xy: 64, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_neuro_quantum_links
+  rotate: false
+  xy: 124, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_neuroregeneration
+  rotate: false
+  xy: 184, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_new_numbers
+  rotate: false
+  xy: 244, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_node_culling
+  rotate: false
+  xy: 304, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_node_culling
+  rotate: false
+  xy: 364, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_node_culling
+  rotate: false
+  xy: 424, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_node_reformatting
+  rotate: false
+  xy: 484, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_node_reformatting
+  rotate: false
+  xy: 544, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_node_reformatting
+  rotate: false
+  xy: 604, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_noxious_swamp
+  rotate: false
+  xy: 664, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_nutrient_replication
+  rotate: false
+  xy: 724, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_offworld_trading
+  rotate: false
+  xy: 784, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_space_trading
+  rotate: false
+  xy: 784, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_orbital_arc_furnace
+  rotate: false
+  xy: 4, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_orbital_ring_tier
+  rotate: false
+  xy: 64, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_orbital_sensor_array
+  rotate: false
+  xy: 124, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_orbital_trash_dispersal
+  rotate: false
+  xy: 184, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_ordered_retreat
+  rotate: false
+  xy: 244, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_paradise_dome
+  rotate: false
+  xy: 304, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_pd_tracking
+  rotate: false
+  xy: 364, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_pd_tracking
+  rotate: false
+  xy: 424, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_pd_tracking
+  rotate: false
+  xy: 484, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_penal_colonies
+  rotate: false
+  xy: 1084, 491
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_perdition_beam
+  rotate: false
+  xy: 544, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_physics
+  rotate: false
+  xy: 604, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_physics
+  rotate: false
+  xy: 664, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_physics
+  rotate: false
+  xy: 724, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_physics
+  rotate: false
+  xy: 784, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 4
+TechPortraits/tech_pk_cracker
+  rotate: false
+  xy: 844, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_pk_godray
+  rotate: false
+  xy: 4, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_pk_neutron
+  rotate: false
+  xy: 64, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_pk_shielder
+  rotate: false
+  xy: 124, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_planetary_defenses
+  rotate: false
+  xy: 184, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_planetary_government
+  rotate: false
+  xy: 244, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_planetary_infrastructure
+  rotate: false
+  xy: 304, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_planetary_infrastructure
+  rotate: false
+  xy: 364, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_planetary_shield_generator
+  rotate: false
+  xy: 424, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_planetary_unification
+  rotate: false
+  xy: 484, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_plantoid_transgenesis
+  rotate: false
+  xy: 544, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_plasma
+  rotate: false
+  xy: 604, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_plasma
+  rotate: false
+  xy: 664, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_plasma
+  rotate: false
+  xy: 724, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_positronic_implants
+  rotate: false
+  xy: 784, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_sapient_ai
+  rotate: false
+  xy: 784, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_power_hub
+  rotate: false
+  xy: 844, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_power_hub
+  rotate: false
+  xy: 904, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_power_plant
+  rotate: false
+  xy: 4, 4
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_power_plant
+  rotate: false
+  xy: 64, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_power_plant
+  rotate: false
+  xy: 124, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_power_plant
+  rotate: false
+  xy: 184, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 4
+TechPortraits/tech_powered_exoskeletons
+  rotate: false
+  xy: 244, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_precognition_interface
+  rotate: false
+  xy: 304, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_predatory_tactics
+  rotate: false
+  xy: 364, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_prescient_data_modeling
+  rotate: false
+  xy: 424, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_probability_theory
+  rotate: false
+  xy: 484, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_project_cornucopia
+  rotate: false
+  xy: 544, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_psi_jump_drive
+  rotate: false
+  xy: 604, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_psi_jump_drives
+  rotate: false
+  xy: 664, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_psionic_barrier
+  rotate: false
+  xy: 724, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_psionic_shield
+  rotate: false
+  xy: 724, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_psionic_expand_consciousness
+  rotate: false
+  xy: 784, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_psionic_expand_consciousness
+  rotate: false
+  xy: 844, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_psionic_expand_consciousness
+  rotate: false
+  xy: 904, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_psionic_sacrificial_volunteers
+  rotate: false
+  xy: 964, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_telepathy
+  rotate: false
+  xy: 964, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_psionic_theory
+  rotate: false
+  xy: 64, 4
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_pure_seed_farming
+  rotate: false
+  xy: 124, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_quantum_catapult
+  rotate: false
+  xy: 184, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_quicksand_basin
+  rotate: false
+  xy: 244, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_rare_crystals
+  rotate: false
+  xy: 304, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_reactor_boosters
+  rotate: false
+  xy: 364, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_reactor_boosters
+  rotate: false
+  xy: 424, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_reactor_boosters
+  rotate: false
+  xy: 484, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_refit_standards
+  rotate: false
+  xy: 544, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_regenerative_hull_tissue
+  rotate: false
+  xy: 604, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_command_limit
+  rotate: false
+  xy: 664, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_improved_armor_output
+  rotate: false
+  xy: 724, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_improved_army_damage
+  rotate: false
+  xy: 784, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_improved_army_health
+  rotate: false
+  xy: 844, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_improved_core_system_cap
+  rotate: false
+  xy: 904, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_improved_edict_length
+  rotate: false
+  xy: 964, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_improved_leader_cap
+  rotate: false
+  xy: 1024, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_improved_leader_life_span
+  rotate: false
+  xy: 124, 4
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_improved_military_station_damage
+  rotate: false
+  xy: 184, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_improved_military_station_health
+  rotate: false
+  xy: 244, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_improved_planet_sensor_range
+  rotate: false
+  xy: 304, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_improved_sector_cap
+  rotate: false
+  xy: 364, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_improved_shield_output
+  rotate: false
+  xy: 424, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_improved_ship_health
+  rotate: false
+  xy: 484, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_improved_slave_mineral_output
+  rotate: false
+  xy: 544, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_improved_starbase_capacity
+  rotate: false
+  xy: 604, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_improved_tile_energy_output
+  rotate: false
+  xy: 664, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_improved_tile_food_output
+  rotate: false
+  xy: 724, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_improved_tile_mineral_output
+  rotate: false
+  xy: 784, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_naval_cap
+  rotate: false
+  xy: 844, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_reduced_building_cost
+  rotate: false
+  xy: 904, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_reduced_building_time
+  rotate: false
+  xy: 964, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_reduced_leader_cost
+  rotate: false
+  xy: 1024, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_weapon_type_energy_damage
+  rotate: false
+  xy: 1084, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_weapon_type_energy_fire_rate
+  rotate: false
+  xy: 184, 4
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_weapon_type_explosive_damage
+  rotate: false
+  xy: 244, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_weapon_type_explosive_fire_rate
+  rotate: false
+  xy: 304, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_weapon_type_kinetic_damage
+  rotate: false
+  xy: 364, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_weapon_type_kinetic_fire_rate
+  rotate: false
+  xy: 424, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_weapon_type_strike_craft_fire_damage
+  rotate: false
+  xy: 484, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_repeatable_weapon_type_strike_craft_fire_rate
+  rotate: false
+  xy: 544, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_resort_colonies
+  rotate: false
+  xy: 604, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_resource_processing_algorithms
+  rotate: false
+  xy: 664, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_synthetic_thought_patterns
+  rotate: false
+  xy: 664, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_rift_sphere
+  rotate: false
+  xy: 724, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_ring_world
+  rotate: false
+  xy: 784, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_robomodding
+  rotate: false
+  xy: 844, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_robomodding_m
+  rotate: false
+  xy: 844, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_robotic_workers
+  rotate: false
+  xy: 904, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_sacred_nexus
+  rotate: false
+  xy: 964, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_satisfying_insults
+  rotate: false
+  xy: 1024, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_science_nexus
+  rotate: false
+  xy: 1084, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_scourge_missile
+  rotate: false
+  xy: 1144, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_secrets_baol
+  rotate: false
+  xy: 244, 4
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_secrets_cybrex
+  rotate: false
+  xy: 304, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_secrets_irassian
+  rotate: false
+  xy: 364, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_secrets_league
+  rotate: false
+  xy: 424, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_secrets_vultaum
+  rotate: false
+  xy: 484, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_secrets_yuht
+  rotate: false
+  xy: 544, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_secrets_zroni
+  rotate: false
+  xy: 604, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_selected_lineages
+  rotate: false
+  xy: 664, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_self_assembling_components
+  rotate: false
+  xy: 724, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_self_aware_logic
+  rotate: false
+  xy: 784, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_sensors
+  rotate: false
+  xy: 844, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_sensors
+  rotate: false
+  xy: 904, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_sensors
+  rotate: false
+  xy: 964, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 4
+TechPortraits/tech_sentry_array
+  rotate: false
+  xy: 1024, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_shield_hardeners
+  rotate: false
+  xy: 1084, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_shield_hardeners
+  rotate: false
+  xy: 1144, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_shield_recharge_aura
+  rotate: false
+  xy: 1204, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_shield_rechargers
+  rotate: false
+  xy: 304, 4
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_shields
+  rotate: false
+  xy: 364, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_shields
+  rotate: false
+  xy: 424, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_shields
+  rotate: false
+  xy: 484, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_shields
+  rotate: false
+  xy: 544, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 4
+TechPortraits/tech_shields
+  rotate: false
+  xy: 604, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 5
+TechPortraits/tech_ship_armor
+  rotate: false
+  xy: 664, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_ship_armor
+  rotate: false
+  xy: 724, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_ship_armor
+  rotate: false
+  xy: 784, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_ship_armor
+  rotate: false
+  xy: 844, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 4
+TechPortraits/tech_ship_armor
+  rotate: false
+  xy: 904, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 5
+TechPortraits/tech_singularity_core
+  rotate: false
+  xy: 964, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_slave_colonies
+  rotate: false
+  xy: 1024, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_society
+  rotate: false
+  xy: 1084, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_society
+  rotate: false
+  xy: 1144, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_society
+  rotate: false
+  xy: 1204, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_society
+  rotate: false
+  xy: 1264, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 4
+TechPortraits/tech_solar_panel_network
+  rotate: false
+  xy: 364, 4
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_space_cloud_weapon
+  rotate: false
+  xy: 424, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_space_construction
+  rotate: false
+  xy: 484, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_space_defense_station
+  rotate: false
+  xy: 544, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_space_defense_station_improvement
+  rotate: false
+  xy: 604, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_space_exploration
+  rotate: false
+  xy: 664, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_space_mining
+  rotate: false
+  xy: 724, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_space_mining
+  rotate: false
+  xy: 784, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_space_mining
+  rotate: false
+  xy: 844, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_space_mining
+  rotate: false
+  xy: 904, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 4
+TechPortraits/tech_space_mining
+  rotate: false
+  xy: 964, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 5
+TechPortraits/tech_space_science
+  rotate: false
+  xy: 1024, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_space_science
+  rotate: false
+  xy: 1084, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_space_science
+  rotate: false
+  xy: 1144, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_space_science
+  rotate: false
+  xy: 1204, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 4
+TechPortraits/tech_space_science
+  rotate: false
+  xy: 1264, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 5
+TechPortraits/tech_space_whale_weapon
+  rotate: false
+  xy: 1324, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_starbase1
+  rotate: false
+  xy: 424, 4
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_starbase2
+  rotate: false
+  xy: 484, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_starbase3
+  rotate: false
+  xy: 544, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_starbase4
+  rotate: false
+  xy: 604, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_starbase5
+  rotate: false
+  xy: 664, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_strategic_coordination
+  rotate: false
+  xy: 724, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_strike_craft
+  rotate: false
+  xy: 784, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_strike_craft
+  rotate: false
+  xy: 844, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_strike_craft
+  rotate: false
+  xy: 904, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_strike_craft_skrand
+  rotate: false
+  xy: 964, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_subdermal_stimulation
+  rotate: false
+  xy: 1024, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_subspace_drive
+  rotate: false
+  xy: 1084, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_supreme_alloy
+  rotate: false
+  xy: 1144, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_swarm_strike_craft
+  rotate: false
+  xy: 1204, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_swarmer_missiles
+  rotate: false
+  xy: 1264, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_swarmer_missiles
+  rotate: false
+  xy: 1324, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_symbol_unity
+  rotate: false
+  xy: 1384, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_synchronized_defences
+  rotate: false
+  xy: 484, 4
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_synchronized_work_patterns
+  rotate: false
+  xy: 544, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_synth_queen_knowledge
+  rotate: false
+  xy: 604, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_synthetic_leaders
+  rotate: false
+  xy: 664, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_synthetic_optimized_algorithms
+  rotate: false
+  xy: 724, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_synthetic_optimized_algorithms
+  rotate: false
+  xy: 784, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_synthetic_optimized_algorithms
+  rotate: false
+  xy: 844, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_synthetic_workers
+  rotate: false
+  xy: 904, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_temple_of_transportation
+  rotate: false
+  xy: 964, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_terrestrial_sculpting
+  rotate: false
+  xy: 1024, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_thought_enforcement
+  rotate: false
+  xy: 1084, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_thrusters
+  rotate: false
+  xy: 1144, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_thrusters
+  rotate: false
+  xy: 1204, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_thrusters
+  rotate: false
+  xy: 1264, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_thrusters
+  rotate: false
+  xy: 1324, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 4
+TechPortraits/tech_titan_hull
+  rotate: false
+  xy: 1384, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_titan_hull
+  rotate: false
+  xy: 1444, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_titans
+  rotate: false
+  xy: 544, 4
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_tomb_world_adaption
+  rotate: false
+  xy: 604, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_torpedoes
+  rotate: false
+  xy: 664, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 1
+TechPortraits/tech_torpedoes
+  rotate: false
+  xy: 724, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 2
+TechPortraits/tech_torpedoes
+  rotate: false
+  xy: 784, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_toxic_kelp
+  rotate: false
+  xy: 844, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_tracking_implants
+  rotate: false
+  xy: 904, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_transcendent_faith
+  rotate: false
+  xy: 964, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_trinary_computing
+  rotate: false
+  xy: 1024, 484
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_unity_of_purpose
+  rotate: false
+  xy: 1084, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_unusual_senses
+  rotate: false
+  xy: 1144, 604
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_vitality_boosters
+  rotate: false
+  xy: 1204, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_volatile_motes
+  rotate: false
+  xy: 1264, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_volcano
+  rotate: false
+  xy: 1324, 784
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_wormhole_generation
+  rotate: false
+  xy: 1384, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: 3
+TechPortraits/tech_wormhole_stabilization
+  rotate: false
+  xy: 1384, 844
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_xeno_aesthetics
+  rotate: false
+  xy: 1444, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_xeno_diplomacy
+  rotate: false
+  xy: 1504, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_xeno_linguistics
+  rotate: false
+  xy: 604, 4
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_xeno_relations
+  rotate: false
+  xy: 664, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_xeno_tourism_agency
+  rotate: false
+  xy: 724, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_xeno_zoo
+  rotate: false
+  xy: 784, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/tech_zero_point_power
+  rotate: false
+  xy: 844, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/unknown
+  rotate: false
+  xy: 904, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/TopBorder
+  rotate: false
+  xy: 1204, 628
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1

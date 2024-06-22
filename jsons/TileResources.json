@@ -1,0 +1,41 @@
+[
+    {
+        "name":"resource_Mine",
+        "resourceType":"Strategic",
+        "revealedBy":"phy.NebulaSpaceStation",
+        "uniques":[
+            "Stockpiled"
+        ]
+    },
+    {
+        "name":"resource_PortableFood",
+        "resourceType":"Strategic",
+        "revealedBy":"phy.NebulaSpaceStation",
+        "uniques":[
+            "Stockpiled"
+        ]
+    },
+    {
+        "name":"resource_Alloy",
+        "resourceType":"Strategic",
+        "revealedBy":"phy.NebulaSpaceStation",
+        "uniques":[
+            "Stockpiled"
+        ]
+    },
+    {
+        "name":"resource_ConsumerGoods",
+        "resourceType":"Strategic",
+        "revealedBy":"phy.NebulaSpaceStation",
+        "uniques":[
+            "Stockpiled"
+        ]
+    },
+    {
+        "name":"resource_Labor",
+        "resourceType":"Strategic",
+        "uniques":[
+            "City-level resource"
+        ]
+    }
+]

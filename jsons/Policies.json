@@ -1,0 +1,763 @@
+[
+    {
+        "name":"idt_IdeologicalTrend",
+        "era":"Physics_Research",
+        "policies":[
+            {
+                "name":"idt_fanatic_Authoritarianism",
+                "row":1,
+                "column":1,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_Egalitarianism]>",
+                    "Unavailable <after adopting [idt_fanatic_Egalitarianism]>"
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"idt_fanatic_Authoritarianism_desc"
+                    }
+                ]
+            },
+            {
+                "name":"idt_Authoritarianism",
+                "row":2,
+                "column":1,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_Egalitarianism]>",
+                    "Unavailable <after adopting [idt_fanatic_Egalitarianism]>"
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"idt_Authoritarianism_desc"
+                    }
+                ]
+            },
+            {
+                "name":"idt_Egalitarianism",
+                "row":3,
+                "column":1,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_Authoritarianism]>",
+                    "Unavailable <after adopting [idt_fanatic_Authoritarianism]>"
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"idt_Egalitarianism_desc"
+                    }
+                ]
+            },
+            {
+                "name":"idt_fanatic_Egalitarianism",
+                "row":4,
+                "column":1,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_Authoritarianism]>",
+                    "Unavailable <after adopting [idt_fanatic_Authoritarianism]>"
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"idt_fanatic_Egalitarianism_desc"
+                    }
+                ]
+            }, 
+            {
+                "name":"idt_fanatic_Xenophobia",
+                "row":1,
+                "column":3,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_Xenophilia]>",
+                    "Unavailable <after adopting [idt_fanatic_Xenophilia]>"
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"idt_fanatic_Xenophobia_desc"
+                    }
+                ]
+            },
+            {
+                "name":"idt_Xenophobia",
+                "row":2,
+                "column":3,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_Xenophilia]>",
+                    "Unavailable <after adopting [idt_fanatic_Xenophilia]>"
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"idt_Xenophobia_desc"
+                    }
+                ]
+            },
+            {
+                "name":"idt_Xenophilia",
+                "row":3,
+                "column":3,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_Xenophobia]>",
+                    "Unavailable <after adopting [idt_fanatic_Xenophobia]>"
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"idt_Xenophilia_desc"
+                    }
+                ]
+            },
+            {
+                "name":"idt_fanatic_Xenophilia",
+                "row":4,
+                "column":3,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_Xenophobia]>",
+                    "Unavailable <after adopting [idt_fanatic_Xenophobia]>"
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"idt_fanatic_Xenophilia_desc"
+                    }
+                ]
+            },
+            {
+                "name":"idt_fanatic_Militarism",
+                "row":1,
+                "column":5,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_Pacifism]>",
+                    "Unavailable <after adopting [idt_fanatic_Pacifism]>"
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"idt_fanatic_Militarism_desc"
+                    }
+                ]
+            },
+            {
+                "name":"idt_Militarism",
+                "row":2,
+                "column":5,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_Pacifism]>",
+                    "Unavailable <after adopting [idt_fanatic_Pacifism]>"
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"idt_Militarism_desc"
+                    }
+                ]
+            },
+            {
+                "name":"idt_Pacifism",
+                "row":3,
+                "column":5,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_Militarism]>",
+                    "Unavailable <after adopting [idt_fanatic_Militarism]>"
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"idt_Pacifism_desc"
+                    }
+                ]
+            },
+            {
+                "name":"idt_fanatic_Pacifism",
+                "row":4,
+                "column":5,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_Militarism]>",
+                    "Unavailable <after adopting [idt_fanatic_Militarism]>"
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"idt_fanatic_Pacifism_desc"
+                    }
+                ]
+            },
+            
+            {
+                "name":"idt_fanatic_Idealism",
+                "row":1,
+                "column":7,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_Materialism]>",
+                    "Unavailable <after adopting [idt_fanatic_Materialism]>"
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"idt_fanatic_Idealism_desc"
+                    }
+                ]
+            },
+            {
+                "name":"idt_Idealism",
+                "row":2,
+                "column":7,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_Materialism]>",
+                    "Unavailable <after adopting [idt_fanatic_Materialism]>"
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"idt_Idealism_desc"
+                    }
+                ]
+            },
+            {
+                "name":"idt_Materialism",
+                "row":3,
+                "column":7,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_Idealism]>",
+                    "Unavailable <after adopting [idt_fanatic_Idealism]>"
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"idt_Materialism_desc"
+                    }
+                ]
+            },
+            {
+                "name":"idt_fanatic_Materialism",
+                "row":4,
+                "column":7,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_Idealism]>",
+                    "Unavailable <after adopting [idt_fanatic_Idealism]>"
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"idt_fanatic_Materialism_desc"
+                    }
+                ]
+            },
+            {
+                "name":"idt_HiveMind",
+                "row":5,
+                "column":3,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_GestaltConsciousness]>"
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"idt_HiveMind_desc"
+                    }
+                ]
+            },
+            {
+                "name":"idt_GestaltConsciousness",
+                "row":5,
+                "column":5,
+                "uniques":[
+                    "Only available <when above [10] [Culture]>",
+                    "Gain [-10] [Culture]",
+                    "Unavailable <after adopting [idt_HiveMind]>"
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"idt_GestaltConsciousness_desc"
+                    }
+                ]
+            },
+            {
+                "name":"idt_IdeologicalTrend Complete"
+            }
+        ]
+    },
+    {
+        "name":"ap_AscensionPerk",
+        "era":"Physics_Research",
+        "policies":[
+            {
+                "name":"ap_lord_of_war",
+                "row":1,
+                "column":1,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_AscensionPerk_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_become_the_crisis",
+                "row":1,
+                "column":3,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_become_the_crisis_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_hydrocentric",
+                "row":1,
+                "column":5,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_hydrocentric_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_enigmatic_engineering",
+                "row":1,
+                "column":7,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_enigmatic_engineering_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_nihilistic_acquisition",
+                "row":1,
+                "column":9,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_nihilistic_acquisition_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_colossus",
+                "row":1,
+                "column":11,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_colossus_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_engineered_evolution",
+                "row":1,
+                "column":13,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_engineered_evolution_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_evolutionary_mastery",
+                "row":1,
+                "column":15,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_evolutionary_mastery_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_the_flesh_is_weak",
+                "row":1,
+                "column":17,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_the_flesh_is_weak_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_synthetic_evolution",
+                "row":1,
+                "column":19,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_synthetic_evolution_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_mind_over_matter",
+                "row":2,
+                "column":1,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_mind_over_matter_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_transcendence",
+                "row":2,
+                "column":3,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_transcendencedesc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_world_shaper",
+                "row":2,
+                "column":5,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_world_shaper_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_galactic_force_projection",
+                "row":2,
+                "column":7,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_galactic_force_projection_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_organo_machine_interfacing",
+                "row":2,
+                "column":9,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_organo_machine_interfacing_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_defender_of_the_galaxy",
+                "row":2,
+                "column":11,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_defender_of_the_galaxy_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_interstellar_dominion",
+                "row":2,
+                "column":13,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_interstellar_dominion_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_grasp_the_void",
+                "row":2,
+                "column":15,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_grasp_the_void_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_eternal_vigilance",
+                "row":2,
+                "column":17,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_eternal_vigilance_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_galactic_contender",
+                "row":2,
+                "column":19,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_galactic_contender_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_technological_ascendancy",
+                "row":3,
+                "column":1,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_technological_ascendancy_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_one_vision",
+                "row":3,
+                "column":3,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_one_vision_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_consecrated_worlds",
+                "row":3,
+                "column":5,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_consecrated_worlds_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_mastery_of_nature",
+                "row":3,
+                "column":7,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_mastery_of_nature_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_imperial_prerogative",
+                "row":3,
+                "column":9,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_imperial_prerogative_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_executive_vigor",
+                "row":3,
+                "column":11,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_executive_vigor_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_transcendent_learning",
+                "row":3,
+                "column":13,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_transcendent_learning_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_shared_destiny",
+                "row":3,
+                "column":15,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_shared_destiny_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_voidborn",
+                "row":3,
+                "column":17,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_voidborn_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_master_builders",
+                "row":3,
+                "column":19,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_master_builders_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_galactic_wonders_utopia",
+                "row":4,
+                "column":1,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_galactic_wonders_utopia_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_galactic_wonders_megacorp",
+                "row":4,
+                "column":3,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_galactic_wonders_megacorp_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_galactic_wonders_utopia_and_megacorp",
+                "row":4,
+                "column":5,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_galactic_wonders_utopia_and_megacorp_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_synthetic_age",
+                "row":4,
+                "column":7,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_synthetic_age_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_machine_worlds",
+                "row":4,
+                "column":9,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_machine_worlds_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_hive_worlds",
+                "row":4,
+                "column":11,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_hive_worlds_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_arcology_project",
+                "row":4,
+                "column":13,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_arcology_project_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_universal_transactions",
+                "row":4,
+                "column":15,
+                "uniques":[
+                ],
+                "civilopediaText": [
+                    {
+                        "text":"ap_universal_transactions_desc"
+                    }
+                ]
+            },
+            {
+                "name":"ap_AscensionPerk Complete"
+            }
+        ]
+    }
+]

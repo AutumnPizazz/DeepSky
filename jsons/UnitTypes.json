@@ -1,0 +1,10 @@
+[
+    {
+        "name": "unitType_Civilian",
+        "movementType": "Land"
+    },
+    {
+        "name": "unitType_Navy",
+        "movementType": "Land"
+    },
+]

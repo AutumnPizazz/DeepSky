@@ -1,0 +1,13 @@
+[
+    {
+        "name": "speed_Default",
+        "modifier":1.0,
+        "religiousPressureAdjacentCity": 0,
+        "peaceDealDuration": 8,
+        "dealDuration": 4,
+        "startYear": 2200,
+        "turns": [
+            {"yearsPerTurn":  0.5, "untilTurn": 1000}
+        ]
+    }
+]

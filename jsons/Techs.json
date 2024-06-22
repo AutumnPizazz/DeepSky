@@ -1,0 +1,62 @@
+[
+	{
+		"columnNumber":0,
+		"era":"Physics_Research",
+		"techCost":1,
+		"techs":[
+			{
+				"name":"phy.NebulaSpaceStation",
+				"row":1,
+				"uniques":[
+					"Starting tech"
+				]
+			},
+			{
+				"name":"tech_basic_science_lab1",
+				"row":2,
+				"uniques":[
+					"Starting tech"
+				]
+			},
+			{
+				"name":"tech_starbase1",
+				"row":3,
+				"uniques":[
+					"Starting tech"
+				]
+			},
+			{
+				"name":"soci.CulturalHistory",
+				"row":21,
+				"uniques":[
+					"Starting tech"
+				]
+			}
+		]
+	},
+	{
+		"columnNumber":1,
+		"era":"Physics_Research",
+		"techCost":30,
+		"techs":[
+			{
+				"name":"phy.ControlledNuclearFission",
+				"row":1,
+				"prerequisites": ["tech_basic_science_lab1"],
+				"uniques":[]
+			},
+			{
+				"name":"phy.Frigate",
+				"row":2,
+				"prerequisites": ["tech_basic_science_lab1"],
+				"uniques":[]
+			},
+			{
+				"name":"soci.ArtificialEthics",
+				"row":21,
+				"prerequisites": ["soci.CulturalHistory"],
+				"uniques":[]
+			}
+		]
+	}
+]

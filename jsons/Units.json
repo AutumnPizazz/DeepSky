@@ -1,0 +1,31 @@
+[
+	{
+		"name": "unit_ColonialPioneer",
+		"unitType": "unitType_Civilian",
+		// "requiredTech":"phy.NebulaSpaceStation",
+		"cost": 1,
+		"movement": 2,
+		"uniques":[
+			"Unavailable",
+			"Turn this tile into a [terrain_HabitableNebulaStation] tile <for [1] movement> <[1] times> <in [terrain_Nebulae] tiles>",
+			"Founds a new city <in [terrain_HabitableNebulaStation] tiles>",
+			// "Triggers a [event_StartGame] event"
+		]
+	},
+	{
+		"name": "unit_NebulaStationBuilder",
+		"unitType": "unitType_Civilian",
+		"cost": 10,
+		"movement": 2,
+		"uniques":[]
+	},
+
+	{
+		"name": "unit_Frigate",
+		"unitType": "unitType_Navy",
+		"cost": 1,
+		"strength": 100,
+		"movement": 2,
+		"uniques":[]
+	},
+]

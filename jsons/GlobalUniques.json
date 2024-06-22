@@ -1,0 +1,75 @@
+{
+    "name": "Global uniques",
+    "uniques": [
+        
+        /*Cancel the relevant mechanism of G&K*/
+        "[-100]% unhappiness from the number of cities",
+        "[-100]% Unhappiness from [Population] [in all cities]",
+        "[-1 Happiness] for every known Natural Wonder",
+        "[-4] Happiness from each type of luxury resource",
+        "[-1 Production, -1 Science] per [1] population [in all cities]",
+        "[+9 Production] [in all cities]",
+
+        // "Triggers a [event_StartGame] event <upon entering the [era1]>",
+
+        "Provides [10] [resource_Labor] <in cities with [1] [Population]>",
+        "Provides [20] [resource_Labor] <in cities with [2] [Population]>",
+        "Provides [30] [resource_Labor] <in cities with [3] [Population]>",
+        "Provides [40] [resource_Labor] <in cities with [4] [Population]>",
+        "Provides [50] [resource_Labor] <in cities with [5] [Population]>",
+        "Provides [60] [resource_Labor] <in cities with [6] [Population]>",
+        "Provides [70] [resource_Labor] <in cities with [7] [Population]>",
+        "Provides [80] [resource_Labor] <in cities with [8] [Population]>",
+        "Provides [90] [resource_Labor] <in cities with [9] [Population]>",
+        "Provides [100] [resource_Labor] <in cities with [10] [Population]>",
+        "Provides [110] [resource_Labor] <in cities with [11] [Population]>",
+        "Provides [120] [resource_Labor] <in cities with [12] [Population]>",
+        "Provides [130] [resource_Labor] <in cities with [13] [Population]>",
+        "Provides [140] [resource_Labor] <in cities with [14] [Population]>",
+        "Provides [150] [resource_Labor] <in cities with [15] [Population]>",
+        "Provides [160] [resource_Labor] <in cities with [16] [Population]>",
+        "Provides [170] [resource_Labor] <in cities with [17] [Population]>",
+        "Provides [180] [resource_Labor] <in cities with [18] [Population]>",
+        "Provides [190] [resource_Labor] <in cities with [19] [Population]>",
+        "Provides [200] [resource_Labor] <in cities with [20] [Population]>",
+        "Provides [210] [resource_Labor] <in cities with [21] [Population]>",
+        "Provides [220] [resource_Labor] <in cities with [22] [Population]>",
+        "Provides [230] [resource_Labor] <in cities with [23] [Population]>",
+        "Provides [240] [resource_Labor] <in cities with [24] [Population]>",
+        "Provides [250] [resource_Labor] <in cities with [25] [Population]>",
+        "Provides [260] [resource_Labor] <in cities with [26] [Population]>",
+        "Provides [270] [resource_Labor] <in cities with [27] [Population]>",
+        "Provides [280] [resource_Labor] <in cities with [28] [Population]>",
+        "Provides [290] [resource_Labor] <in cities with [29] [Population]>",
+        "Provides [300] [resource_Labor] <in cities with [30] [Population]>",
+        "Provides [310] [resource_Labor] <in cities with [31] [Population]>",
+        "Provides [320] [resource_Labor] <in cities with [32] [Population]>",
+        "Provides [330] [resource_Labor] <in cities with [33] [Population]>",
+        "Provides [340] [resource_Labor] <in cities with [34] [Population]>",
+        "Provides [350] [resource_Labor] <in cities with [35] [Population]>",
+        "Provides [360] [resource_Labor] <in cities with [36] [Population]>",
+        "Provides [370] [resource_Labor] <in cities with [37] [Population]>",
+        "Provides [380] [resource_Labor] <in cities with [38] [Population]>",
+        "Provides [390] [resource_Labor] <in cities with [39] [Population]>",
+        "Provides [400] [resource_Labor] <in cities with [40] [Population]>",
+        "Provides [410] [resource_Labor] <in cities with [41] [Population]>",
+        "Provides [420] [resource_Labor] <in cities with [42] [Population]>",
+        "Provides [430] [resource_Labor] <in cities with [43] [Population]>",
+        "Provides [440] [resource_Labor] <in cities with [44] [Population]>",
+        "Provides [450] [resource_Labor] <in cities with [45] [Population]>",
+        "Provides [460] [resource_Labor] <in cities with [46] [Population]>",
+        "Provides [470] [resource_Labor] <in cities with [47] [Population]>",
+        "Provides [480] [resource_Labor] <in cities with [48] [Population]>",
+        "Provides [490] [resource_Labor] <in cities with [49] [Population]>",
+        "Provides [500] [resource_Labor] <in cities with [50] [Population]>",
+        "Provides [510] [resource_Labor] <in cities with at least [50] [Population]>"
+
+
+
+
+
+        
+
+
+    ]
+}

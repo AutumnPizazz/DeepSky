@@ -1,0 +1,60 @@
+{
+    "baseColor": {"r": 0.063, "g": 0.05, "b": 0.504, "a": 0.8},
+    // "skinVariants": {
+
+    //     "CityScreen/CityPickerTable": {
+    //     "tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+    //         "image": "TEST",
+    //     },
+        // "WorldScreen/CityButton/IconTableBorder": {
+        // "tint": {"r": 1, "g": 1, "b": 1, "a": 1},
+        //     "image": "TEST",
+        // },
+
+        // "AnimatedMenu/Button":{
+        //     "image": "TEST"
+        // },
+        // "MainMenuScreen/MenuButton": {
+        //     "image": "TEST"
+        // },
+        // "CityScreen/CityPickerTable":{
+        //     "image": "TEST"
+        // },
+        // "CityScreen/CityConstructionTable/AvailableConstructionsTable":{
+        //     "image": "TEST"
+        // },
+        // "CityScreen/CityConstructionTable/ConstructionsQueueTable":{
+        //     "image": "TEST"
+        // },
+        // "CityScreen/CityConstructionTable/Header":{
+        //     "image": "TEST"
+        // },
+        // "CityScreen/CityConstructionTable/PickConstructionButton":{
+        //     "image": "TEST"
+        // },
+        // "CityScreen/CityConstructionTable/PickConstructionButtonSelected":{
+        //     "image": "TEST"
+        // },
+        // "CityScreen/CityConstructionTable/QueueEntry":{
+        //     "image": "TEST"
+        // },
+        // "CityScreen/CityConstructionTable/QueueEntrySelected":{
+        //     "image": "TEST"
+        // },
+        // "CityScreen/CityScreenTileTable/Background":{
+        //     "image": "TEST"
+        // },
+        // "CityScreen/CityStatsTable/Background":{
+        //     "image": "TEST"
+        // },
+        // "CityScreen/CityStatsTable/InnerTable":{
+        //     "image": "TEST"
+        // },
+        // "CityScreen/ConstructionInfoTable/Background":{
+        //     "image": "TEST"
+        // },
+        // "CityScreen/ConstructionInfoTable/SelectedConstructionTable":{
+        //     "image": "TEST"
+        // },
+    }
+}

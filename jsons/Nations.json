@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Spectator",
+		"outerColor": [255,255,255]
+//		"innerColor": [255,255,255]
+	},
+	{
+		"name": "origion_Hyacinth",
+		"leaderName": "The Unknowable",
+		"adjective": ["origion_Hyacinth"],
+	
+		"outerColor": [72, 61, 139],
+		"innerColor": [255, 215, 0],
+
+		"uniqueName": "",
+		"uniques": [
+			"Reveals the entire map"
+		], 
+
+		"cities": ["天津四"]
+	},
+	{
+		"name": "origion_Ark",
+		"leaderName": "The Unknowable",
+		"adjective": ["origion_Ark"],
+	
+		"outerColor": [0, 104, 183],
+		"innerColor": [255, 255, 255],
+
+		"uniqueName": "",
+		"uniques": [
+			"Reveals the entire map"
+		], 
+
+		"cities": ["太阳"]
+	}
+
+	//新国家/新文明从这里开始sss
+
+	// {
+	// 	"name": "Jerusalem",
+	// 	"adjective": ["Jerusalem"],
+	// 	"cityStateType": "Religious",
+
+	// 	"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
+	// 	"attacked": "May god have mercy on your evil soul.",
+	// 	"defeated": "I for one welcome our new conquer overlord!",
+	// 	"outerColor": [0, 0, 0],
+	// 	"innerColor": [198,255,192],
+	// 	"cities": ["Jerusalem"]
+	// }
+	// //Barbarian
+	// {
+	// 	"name": "Barbarians",
+	// 	"outerColor": [0,0,0],
+    //     "innerColor": [185,12,12],
+	// 	"uniques": ["Can only heal by pillaging", "Excluded from map editor"]
+	// }
+]

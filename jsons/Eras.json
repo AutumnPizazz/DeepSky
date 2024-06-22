@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Physics_Research",
+        "researchAgreementCost": 150,
+        "startingSettlerUnit":"unit_ColonialPioneer",
+        "startingWorkerUnit":"",
+        "startingSettlerCount": 1,
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 1,
+        "startingMilitaryUnit": "unit_Frigate",
+        "settlerPopulation": 1,
+        "baseUnitBuyCost": 200,
+        "embarkDefense": 70,
+        "startPercent": 0,
+        "startingGold": 20,
+        "citySound": "cityAncient",
+        "iconRGB": [255, 87, 35],
+        "uniques":["May not generate great prophet equivalents naturally"]
+    }
+]
