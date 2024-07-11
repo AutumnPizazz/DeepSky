@@ -1,62 +1,3152 @@
 [
-	{
-		"columnNumber":0,
-		"era":"Physics_Research",
-		"techCost":1,
-		"techs":[
-			{
-				"name":"phy.NebulaSpaceStation",
-				"row":1,
-				"uniques":[
-					"Starting tech"
-				]
-			},
-			{
-				"name":"tech_basic_science_lab1",
-				"row":2,
-				"uniques":[
-					"Starting tech"
-				]
-			},
-			{
-				"name":"tech_starbase1",
-				"row":3,
-				"uniques":[
-					"Starting tech"
-				]
-			},
-			{
-				"name":"soci.CulturalHistory",
-				"row":21,
-				"uniques":[
-					"Starting tech"
-				]
-			}
-		]
-	},
-	{
-		"columnNumber":1,
-		"era":"Physics_Research",
-		"techCost":30,
-		"techs":[
-			{
-				"name":"phy.ControlledNuclearFission",
-				"row":1,
-				"prerequisites": ["tech_basic_science_lab1"],
-				"uniques":[]
-			},
-			{
-				"name":"phy.Frigate",
-				"row":2,
-				"prerequisites": ["tech_basic_science_lab1"],
-				"uniques":[]
-			},
-			{
-				"name":"soci.ArtificialEthics",
-				"row":21,
-				"prerequisites": ["soci.CulturalHistory"],
-				"uniques":[]
-			}
-		]
-	}
+    {
+        "columnNumber": 0,
+        "era": "物理学_计算技术",
+        "techCost": 1,
+        "techs": [
+            {
+                "name": "神秘编码器",
+                "row": 1,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "神秘解码器",
+                "row": 2,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "科学方法",
+                "row": 3,
+                "uniques": [
+                    "Starting tech"
+                ]
+            },
+            {
+                "name": "策展人探索实验室",
+                "row": 4,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "策展人考古实验室",
+                "row": 5,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "跨行星研究倡议",
+                "row": 6,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "管理型人工智能",
+                "row": 7,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "人工智能殖民船",
+                "row": 8,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "自我意识殖民船",
+                "row": 9,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "自我演化逻辑",
+                "row": 10,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "自动探索协议",
+                "row": 11,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "正电子人工智能",
+                "row": 12,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "基础作战电脑",
+                "row": 13,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "高级作战电脑",
+                "row": 14,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "智能作战电脑",
+                "row": 15,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "自律舰船智能",
+                "row": 16,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "辅助火控",
+                "row": 17,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "同步防御",
+                "row": 18,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "重力传感器",
+                "row": 19,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "亚空间传感器",
+                "row": 20,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "快子传感器",
+                "row": 21,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "主动反制",
+                "row": 22,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "互联支援系统",
+                "row": 23,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "预测算法",
+                "row": 24,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "正电子脑植入体",
+                "row": 25,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "外星材料实验室",
+                "row": 26,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "多维研究",
+                "row": 27,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "零重力实验室",
+                "row": 28,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "微型遏制力场",
+                "row": 29,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "量子探测器",
+                "row": 30,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "自主运行空间站协议",
+                "row": 31,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "多维分析",
+                "row": 32,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "量子理论",
+                "row": 33,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "应用量子力学",
+                "row": 34,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "时空理论",
+                "row": 35,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "科学枢纽建造",
+                "row": 36,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "哨兵阵列建造",
+                "row": 37,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "市场分析算法",
+                "row": 38,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "预测消费",
+                "row": 39,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "量子防火墙",
+                "row": 40,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "同时崩塌存储",
+                "row": 41,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "逆时间密钥",
+                "row": 42,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "量子骇客",
+                "row": 43,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "模拟社会工程",
+                "row": 44,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "准维映射",
+                "row": 45,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "引力分析1",
+                "row": 1001,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "引力分析2",
+                "row": 1002,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "引力分析3",
+                "row": 1003,
+                "uniques": [
+                    "Unavailable"
+                ]
+            }
+        ]
+    },
+    {
+        "columnNumber": 1,
+        "era": "物理学_力场操控",
+        "techCost": 30,
+        "techs": [
+            {
+                "name": "安乐天使",
+                "row": 1,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "暗物质偏射护盾",
+                "row": 2,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "熵递归",
+                "row": 3,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "偏射盾",
+                "row": 4,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "改良偏射盾",
+                "row": 5,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "护盾",
+                "row": 6,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "先进护盾",
+                "row": 7,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "超级护盾",
+                "row": 8,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "护盾电容",
+                "row": 9,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "行星护盾",
+                "row": 10,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "高能电容器",
+                "row": 11,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "力场遏制",
+                "row": 12,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "量子能态",
+                "row": 13,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "量子操控场",
+                "row": 14,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "全球能源管理",
+                "row": 15,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "行星电力网",
+                "row": 16,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "暗物质收集",
+                "row": 17,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "试验性亚空间导航",
+                "row": 18,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "戴森球建造",
+                "row": 19,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "物质解压器建造",
+                "row": 20,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "超导应用1",
+                "row": 1001,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "超导应用2",
+                "row": 1002,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "超导应用3",
+                "row": 1003,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "护盾数率分析1",
+                "row": 2001,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "护盾数率分析2",
+                "row": 2002,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "护盾数率分析3",
+                "row": 2003,
+                "uniques": [
+                    "Unavailable"
+                ]
+            }
+        ]
+    },
+    {
+        "columnNumber": 2,
+        "era": "物理学_粒子物理",
+        "techCost": 30,
+        "techs": [
+            {
+                "name": "中子灭杀",
+                "row": 1,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "暗物质能源",
+                "row": 2,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "欧米茄理论",
+                "row": 3,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "裂变能源",
+                "row": 4,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "聚变能源",
+                "row": 5,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "冷核聚变能源",
+                "row": 6,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "反物质能源",
+                "row": 7,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "零点能源",
+                "row": 8,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "反应堆增压器",
+                "row": 9,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "改良反应堆增压器",
+                "row": 10,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "先进反应堆增压器",
+                "row": 11,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "超空间移动",
+                "row": 12,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "超空间航道突破点",
+                "row": 13,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "超空间滑流",
+                "row": 14,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "虫洞稳定",
+                "row": 15,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星门激活",
+                "row": 16,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星门建造",
+                "row": 17,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "跃迁引擎",
+                "row": 18,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "超光速抑制",
+                "row": 19,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "红激光发射器",
+                "row": 20,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "蓝激光发射器",
+                "row": 21,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "紫外激光发射器",
+                "row": 22,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "X射线发射器",
+                "row": 23,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "伽马激光发射器",
+                "row": 24,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "粒子光矛",
+                "row": 25,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "快子光矛",
+                "row": 26,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "等离子发射器",
+                "row": 27,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "等离子加速器",
+                "row": 28,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "等离子加农炮",
+                "row": 29,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "电弧发射器",
+                "row": 30,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "聚能电弧发射器",
+                "row": 31,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "裂解炮",
+                "row": 32,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "离子裂解炮",
+                "row": 33,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "相位裂解炮",
+                "row": 34,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "质子发射器",
+                "row": 35,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "中子发射器",
+                "row": 36,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "高维武器",
+                "row": 37,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "采矿无人机激光",
+                "row": 38,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "雷云导线",
+                "row": 39,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "L星门启动",
+                "row": 40,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "生物反应堆",
+                "row": 41,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "太虚光束",
+                "row": 42,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "微粒稳定化",
+                "row": 43,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "易爆材料生产厂",
+                "row": 44,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "量子弹弓建造",
+                "row": 45,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "超空间中继器建造",
+                "row": 46,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "聚焦整列1",
+                "row": 1001,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "聚焦整列2",
+                "row": 1002,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "聚焦整列3",
+                "row": 1003,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "快速冷却剂1",
+                "row": 2001,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "快速冷却剂2",
+                "row": 2002,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "快速冷却剂3",
+                "row": 2003,
+                "uniques": [
+                    "Unavailable"
+                ]
+            }
+        ]
+    },
+    {
+        "columnNumber": 3,
+        "era": "社会学_新世界理论",
+        "techCost": 30,
+        "techs": [
+            {
+                "name": "新世界协议",
+                "row": 1,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "大气过滤",
+                "row": 2,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "恶劣环境适应",
+                "row": 3,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "外星土壤肥化",
+                "row": 4,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "生态整合研究",
+                "row": 5,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "死寂星球适应",
+                "row": 6,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "地表塑造",
+                "row": 7,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "生态适应",
+                "row": 8,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "气候复苏",
+                "row": 9,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星际扩张",
+                "row": 10,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "昭昭天命",
+                "row": 11,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "殖民集中",
+                "row": 12,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "地表重塑",
+                "row": 13,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "地壳深部工程",
+                "row": 14,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "清除危险野生动物",
+                "row": 15,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "选择性脱叶剂",
+                "row": 16,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "土壤修复",
+                "row": 17,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "异种水力掌控",
+                "row": 18,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "海洋生态管理",
+                "row": 19,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "气候控制网络",
+                "row": 20,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "地下殖民",
+                "row": 21,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "耐钢基础设施",
+                "row": 22,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "瓷金基础设施",
+                "row": 23,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "行政效率1",
+                "row": 1001,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "行政效率2",
+                "row": 1002,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "行政效率3",
+                "row": 1003,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星际扩张1",
+                "row": 2001,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星际扩张2",
+                "row": 2002,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星际扩张3",
+                "row": 2003,
+                "uniques": [
+                    "Unavailable"
+                ]
+            }
+        ]
+    },
+    {
+        "columnNumber": 4,
+        "era": "社会学_治国术",
+        "techCost": 30,
+        "techs": [
+            {
+                "name": "奇异循环",
+                "row": 1,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "外星贸易公司",
+                "row": 2,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "行星政府",
+                "row": 3,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "行星统一",
+                "row": 4,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星系管理",
+                "row": 5,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "泛星系贸易市场",
+                "row": 6,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "灵活机构",
+                "row": 7,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "殖民官僚制",
+                "row": 8,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星河官僚制",
+                "row": 9,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "活体国度",
+                "row": 10,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "集体自我",
+                "row": 11,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "自主代理",
+                "row": 12,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "具现物力论",
+                "row": 13,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "神经植入体",
+                "row": 14,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "人工道德规范",
+                "row": 15,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "综合思维模式",
+                "row": 16,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "社会文化历史",
+                "row": 17,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "传承遗迹",
+                "row": 18,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "自动综合处理算法",
+                "row": 19,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "全息仪式",
+                "row": 20,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "授圣力场",
+                "row": 21,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "超意识信仰",
+                "row": 22,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "飞升理论",
+                "row": 23,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "集体生产方法",
+                "row": 24,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "资源处理算法",
+                "row": 25,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "外星拓展中介",
+                "row": 26,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "高管休闲项目",
+                "row": 27,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星际贸易",
+                "row": 28,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星际经济学",
+                "row": 29,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "拜金教数据建模",
+                "row": 30,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "全球生产策略",
+                "row": 31,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "齐心协力",
+                "row": 32,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "全息影像娱乐",
+                "row": 33,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "极乐广场",
+                "row": 34,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "田园建筑学",
+                "row": 35,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "簇状突触",
+                "row": 36,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "突触建筑",
+                "row": 37,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "思想集簇",
+                "row": 38,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "流放地",
+                "row": 39,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "度假星球",
+                "row": 40,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "奴隶星球",
+                "row": 41,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "农业乌托邦",
+                "row": 42,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星际集会建造",
+                "row": 43,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "巨型艺术设施建造",
+                "row": 44,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "奥术解密",
+                "row": 45,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "本地超通讯",
+                "row": 46,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "追踪植入体",
+                "row": 47,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "高效吏治",
+                "row": 48,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "异种外交",
+                "row": 49,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "异星关系学",
+                "row": 50,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "改进生产",
+                "row": 51,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "规模效应",
+                "row": 52,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "最大化产能",
+                "row": 53,
+                "uniques": [
+                    "Unavailable"
+                ]
+            }
+        ]
+    },
+    {
+        "columnNumber": 5,
+        "era": "社会学_生物学",
+        "techCost": 30,
+        "techs": [
+            {
+                "name": "生态模拟",
+                "row": 1,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "水培农业",
+                "row": 2,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "转基因作物",
+                "row": 3,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "纳米活性作物",
+                "row": 4,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "营养复制",
+                "row": 5,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "异种生物学",
+                "row": 6,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "生物力学",
+                "row": 7,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "基因健康保障",
+                "row": 8,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "细胞修复",
+                "row": 9,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "基因图谱",
+                "row": 10,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "活性增强剂",
+                "row": 11,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "表观遗传学机制",
+                "row": 12,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "克隆",
+                "row": 13,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "基因库",
+                "row": 14,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "基因种子纯化",
+                "row": 15,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "形态发生学精通",
+                "row": 16,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "基因剪裁",
+                "row": 17,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "腺体适应",
+                "row": 18,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "基因重组",
+                "row": 19,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "基因定向表达",
+                "row": 20,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "择优血脉",
+                "row": 21,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "能力增强",
+                "row": 22,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "再生舰体组织",
+                "row": 23,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "皮下刺激",
+                "row": 24,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "变形虫育种计划",
+                "row": 25,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "虫群产卵池",
+                "row": 26,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "天灾导弹",
+                "row": 27,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "频率调谐",
+                "row": 28,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "超体进化",
+                "row": 29,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "神经组织工程",
+                "row": 30,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "农业工业化",
+                "row": 31,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "食品加工",
+                "row": 32,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "高级食品加工",
+                "row": 33,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "生物多样性研究",
+                "row": 34,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "生命的秘密",
+                "row": 35,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "细胞活力1",
+                "row": 1001,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "细胞活力2",
+                "row": 1002,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "细胞活力3",
+                "row": 1003,
+                "uniques": [
+                    "Unavailable"
+                ]
+            }
+        ]
+    },
+    {
+        "columnNumber": 6,
+        "era": "社会学_军事理论",
+        "techCost": 30,
+        "techs": [
+            {
+                "name": "行星防御",
+                "row": 1,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "自适应作战算法",
+                "row": 2,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "太空战斗",
+                "row": 3,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "灵巧编队",
+                "row": 4,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星际战争",
+                "row": 5,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "机动舰队模板",
+                "row": 6,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "舰队阵型",
+                "row": 7,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星际舰队传统",
+                "row": 8,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "改装标准",
+                "row": 9,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "指挥矩阵",
+                "row": 10,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "舰队支援",
+                "row": 11,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "支援船队",
+                "row": 12,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星际后勤",
+                "row": 13,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "舰队联络",
+                "row": 14,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "集中指挥",
+                "row": 15,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "战斗训练",
+                "row": 16,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "地面防御计划",
+                "row": 17,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "全球防御网络",
+                "row": 18,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星际战役",
+                "row": 19,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星河战役",
+                "row": 20,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "舰队管理规程",
+                "row": 21,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "司令幕僚",
+                "row": 22,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "战略指挥中心",
+                "row": 23,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "巨型船坞建造",
+                "row": 24,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "舰载机强化训练1",
+                "row": 1001,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "舰载机强化训练2",
+                "row": 1002,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "舰载机强化训练3",
+                "row": 1003,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "陆军强化训练1",
+                "row": 2001,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "陆军强化训练2",
+                "row": 2002,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "陆军强化训练3",
+                "row": 2003,
+                "uniques": [
+                    "Unavailable"
+                ]
+            }
+        ]
+    },
+    {
+        "columnNumber": 7,
+        "era": "社会学_灵能理论",
+        "techCost": 30,
+        "techs": [
+            {
+                "name": "神圣激素",
+                "row": 1,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "蒸馏泽珞",
+                "row": 2,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "灵能理论",
+                "row": 3,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "心灵感应",
+                "row": 4,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "预知接口",
+                "row": 5,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "灵能跃迁引擎",
+                "row": 6,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "灵能护盾",
+                "row": 7,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "灵能屏障",
+                "row": 8,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "思想钢印",
+                "row": 9,
+                "uniques": [
+                    "Unavailable"
+                ]
+            }
+        ]
+    },
+    {
+        "columnNumber": 8,
+        "era": "工程学_材料科学",
+        "techCost": 30,
+        "techs": [
+            {
+                "name": "纳米复合材料",
+                "row": 1,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "瓷金复合材料",
+                "row": 2,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "塑钢材料",
+                "row": 3,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "耐钢材料",
+                "row": 4,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "零素材料",
+                "row": 5,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "水晶复合镀层",
+                "row": 6,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "水晶锻造镀层",
+                "row": 7,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "人造龙鳞装甲",
+                "row": 8,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "活体金属",
+                "row": 9,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "贝赛里安精炼",
+                "row": 10,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "固态全息铸模",
+                "row": 11,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "纳米分离器",
+                "row": 12,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "纳米电路装配",
+                "row": 13,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "复制机终端",
+                "row": 14,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "异星天然气开采",
+                "row": 15,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "异星天然气精炼",
+                "row": 16,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "稀有水晶开采",
+                "row": 17,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "稀有水晶精炼",
+                "row": 18,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "纳米变形",
+                "row": 19,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "陶瓷合金",
+                "row": 20,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "耐钢合金",
+                "row": 21,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "物质压缩1",
+                "row": 1001,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "物质压缩2",
+                "row": 1002,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "物质压缩3",
+                "row": 1003,
+                "uniques": [
+                    "Unavailable"
+                ]
+            }
+        ]
+    },
+    {
+        "columnNumber": 9,
+        "era": "工程学_推进力学",
+        "techCost": 30,
+        "techs": [
+            {
+                "name": "化学推进器",
+                "row": 1,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "离子推进器",
+                "row": 2,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "等离子推进器",
+                "row": 3,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "脉冲推进器",
+                "row": 4,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "加力燃烧室",
+                "row": 5,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "先进加力燃烧室",
+                "row": 6,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "质量投射器",
+                "row": 7,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "线圈炮",
+                "row": 8,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "轨道炮",
+                "row": 9,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "先进轨道炮",
+                "row": 10,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "高斯炮",
+                "row": 11,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "动能火炮",
+                "row": 12,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "先进动能火炮",
+                "row": 13,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "兆级加农炮",
+                "row": 14,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "千兆级加农炮",
+                "row": 15,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "机关炮",
+                "row": 16,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "撕裂者机关炮",
+                "row": 17,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "火风暴机关炮",
+                "row": 18,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "高射炮",
+                "row": 19,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "高射加农炮",
+                "row": 20,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "重型高射炮",
+                "row": 21,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "核导弹",
+                "row": 22,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "聚变核导弹",
+                "row": 23,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "反物质导弹",
+                "row": 24,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "量子导弹",
+                "row": 25,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "掠夺者导弹",
+                "row": 26,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "蜂群导弹",
+                "row": 27,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "旋风导弹",
+                "row": 28,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "太空鱼雷",
+                "row": 29,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "装甲鱼雷",
+                "row": 30,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "毁灭者鱼雷",
+                "row": 31,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "暗物质推进",
+                "row": 32,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "轨道垃圾散布",
+                "row": 33,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "热力学当量控制1",
+                "row": 1001,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "热力学当量控制2",
+                "row": 1002,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "热力学当量控制3",
+                "row": 1003,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "高密度弹药1",
+                "row": 2001,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "高密度弹药2",
+                "row": 2002,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "高密度弹药3",
+                "row": 2003,
+                "uniques": [
+                    "Unavailable"
+                ]
+            }
+        ]
+    },
+    {
+        "columnNumber": 10,
+        "era": "工程学_宇航技术",
+        "techCost": 30,
+        "techs": [
+            {
+                "name": "巨像",
+                "row": 1,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "地爆天星",
+                "row": 2,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "大气纳米机器人散布",
+                "row": 3,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "太空探索",
+                "row": 4,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "护卫舰",
+                "row": 5,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "驱逐舰",
+                "row": 6,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "巡洋舰",
+                "row": 7,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "战列舰",
+                "row": 8,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "泰坦",
+                "row": 9,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "标准化护卫舰模板",
+                "row": 10,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "改进护卫舰船体",
+                "row": 11,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "先进护卫舰船体",
+                "row": 12,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "标准化驱逐舰模板",
+                "row": 13,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "改进驱逐舰船体",
+                "row": 14,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "先进驱逐舰船体",
+                "row": 15,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "标准化巡洋舰模板",
+                "row": 16,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "改进巡洋舰船体",
+                "row": 17,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "先进巡洋舰船体",
+                "row": 18,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "标准化战列舰模板",
+                "row": 19,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "改进战列舰船体",
+                "row": 20,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "先进战列舰船体",
+                "row": 21,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "改进泰坦船体",
+                "row": 22,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "先进泰坦船体",
+                "row": 23,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "恒星基地建设",
+                "row": 24,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星港",
+                "row": 25,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星垒",
+                "row": 26,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星堡",
+                "row": 27,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "擎天堡",
+                "row": 28,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "模块化工程",
+                "row": 29,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "工兵部队",
+                "row": 30,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "航母作战",
+                "row": 31,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "改良型舰载机",
+                "row": 32,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "先进型舰载机",
+                "row": 33,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星际远征军",
+                "row": 34,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "深空防御",
+                "row": 35,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "改善结构完整性",
+                "row": 36,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "巨型结构工程",
+                "row": 37,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "L星门认知",
+                "row": 38,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "轨道能源转化技术",
+                "row": 39,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "轨道居住站",
+                "row": 40,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "环形世界",
+                "row": 41,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星爆器",
+                "row": 42,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "主宰",
+                "row": 43,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "居住站扩建",
+                "row": 44,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "高级太空居住站",
+                "row": 45,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "星环基地",
+                "row": 46,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "同步开火模式1",
+                "row": 1001,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "同步开火模式2",
+                "row": 1002,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "同步开火模式3",
+                "row": 1003,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "强化核心层1",
+                "row": 2001,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "强化核心层2",
+                "row": 2002,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "强化核心层3",
+                "row": 2003,
+                "uniques": [
+                    "Unavailable"
+                ]
+            }
+        ]
+    },
+    {
+        "columnNumber": 11,
+        "era": "工程学_工业技术",
+        "techCost": 30,
+        "techs": [
+            {
+                "name": "工业基地",
+                "row": 1,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "动力外骨骼",
+                "row": 2,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "机器人劳工",
+                "row": 3,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "智能人",
+                "row": 4,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "合成人",
+                "row": 5,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "合成人人格矩阵",
+                "row": 6,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "外太空建设",
+                "row": 7,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "装配模式",
+                "row": 8,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "建造模板",
+                "row": 9,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "机械模板系统",
+                "row": 10,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "交叉模组标准化",
+                "row": 11,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "二进制内驱程序",
+                "row": 12,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "纳米装配机",
+                "row": 13,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "机械化开采",
+                "row": 14,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "零重力精炼厂",
+                "row": 15,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "远距离矿物扫描仪",
+                "row": 16,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "矿石切割束",
+                "row": 17,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "自动采矿无人机",
+                "row": 18,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "纳米矿物探测器",
+                "row": 19,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "地热水力压裂",
+                "row": 20,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "地心开采",
+                "row": 21,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "矿物分离",
+                "row": 22,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "矿物提纯",
+                "row": 23,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "先进矿物提纯",
+                "row": 24,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "纳米力学",
+                "row": 25,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "超固体材料",
+                "row": 26,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "超流体材料",
+                "row": 27,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "气候控制系统",
+                "row": 28,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "反重力工程",
+                "row": 29,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "微型复制机",
+                "row": 30,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "自动组装部件",
+                "row": 31,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "巨型装配系统",
+                "row": 32,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "提取模式1",
+                "row": 1001,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "提取模式2",
+                "row": 1002,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "提取模式3",
+                "row": 1003,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "组装算法1",
+                "row": 2001,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "组装算法2",
+                "row": 2002,
+                "uniques": [
+                    "Unavailable"
+                ]
+            },
+            {
+                "name": "组装算法3",
+                "row": 2003,
+                "uniques": [
+                    "Unavailable"
+                ]
+            }
+        ]
+    }
 ]

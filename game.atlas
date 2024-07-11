@@ -111,84 +111,84 @@ StatIcons/Science
   index: -1
 PolicyIcons/ap_arcane_tech
   rotate: false
-  xy: 1284, 874
+  xy: 1284, 820
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
   index: -1
 PolicyIcons/ap_archaeoengineers
   rotate: false
-  xy: 1284, 874
+  xy: 1284, 820
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
   index: -1
 PolicyIcons/ap_arcology_project
   rotate: false
-  xy: 1284, 806
+  xy: 1284, 752
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
   index: -1
 PolicyIcons/ap_become_the_crisis
   rotate: false
-  xy: 1284, 738
+  xy: 1449, 1280
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
   index: -1
 PolicyIcons/ap_boarding_pods
   rotate: false
-  xy: 1449, 1280
+  xy: 1509, 1280
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
   index: -1
 PolicyIcons/ap_colossus
   rotate: false
-  xy: 1509, 1280
+  xy: 1569, 1280
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
   index: -1
 PolicyIcons/ap_consecrated_worlds
   rotate: false
-  xy: 1569, 1280
+  xy: 1629, 1280
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
   index: -1
 PolicyIcons/ap_cosmogenesis
   rotate: false
-  xy: 1629, 1280
+  xy: 1689, 1280
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
   index: -1
 PolicyIcons/ap_defender_of_the_galaxy
   rotate: false
-  xy: 1689, 1280
+  xy: 1749, 1280
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
   index: -1
 PolicyIcons/ap_detox
   rotate: false
-  xy: 1749, 1280
+  xy: 1809, 1280
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
   index: -1
 PolicyIcons/ap_engineered_evolution
   rotate: false
-  xy: 1809, 1280
+  xy: 1284, 684
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
   index: -1
 PolicyIcons/ap_engineered_evolution_old
   rotate: false
-  xy: 1809, 1280
+  xy: 1284, 684
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
@@ -293,77 +293,77 @@ PolicyIcons/ap_interstellar_dominion
   index: -1
 PolicyIcons/ap_lord_of_war
   rotate: false
-  xy: 1233, 648
+  xy: 1332, 1240
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
   index: -1
 PolicyIcons/ap_machine_worlds
   rotate: false
-  xy: 1293, 670
+  xy: 1332, 1172
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
   index: -1
 PolicyIcons/ap_master_builders
   rotate: false
-  xy: 1293, 602
+  xy: 1332, 1104
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
   index: -1
 PolicyIcons/ap_mastery_of_nature
   rotate: false
-  xy: 1332, 1240
+  xy: 1344, 1036
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
   index: -1
 PolicyIcons/ap_mechromancy
   rotate: false
-  xy: 1332, 1172
+  xy: 1344, 968
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
   index: -1
 PolicyIcons/ap_mind_over_matter
   rotate: false
-  xy: 1332, 1104
+  xy: 1344, 900
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
   index: -1
 PolicyIcons/ap_nihilistic_acquisition
   rotate: false
-  xy: 1344, 934
+  xy: 1344, 832
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
   index: -1
 PolicyIcons/ap_one_vision
   rotate: false
-  xy: 1344, 866
+  xy: 1344, 764
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
   index: -1
 PolicyIcons/ap_organo_machine_interfacing
   rotate: false
-  xy: 1344, 798
+  xy: 1344, 696
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
   index: -1
 PolicyIcons/ap_the_flesh_is_weak
   rotate: false
-  xy: 1344, 798
+  xy: 1344, 696
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
   index: -1
 PolicyIcons/ap_shared_destiny
   rotate: false
-  xy: 1350, 1036
+  xy: 1344, 628
   size: 52, 60
   orig: 52, 60
   offset: 0, 0
@@ -438,37 +438,23 @@ PolicyIcons/ap_xeno_compatibility
   orig: 52, 60
   offset: 0, 0
   index: -1
-PolicyIcons/slot_available
-  rotate: false
-  xy: 1692, 1144
-  size: 52, 60
-  orig: 52, 60
-  offset: 0, 0
-  index: -1
-PolicyIcons/slot_locked
-  rotate: false
-  xy: 1752, 1154
-  size: 52, 60
-  orig: 52, 60
-  offset: 0, 0
-  index: -1
 Portraits/Background
   rotate: false
-  xy: 1284, 942
+  xy: 1284, 1008
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
 TechPortraits/Background
   rotate: false
-  xy: 1284, 942
+  xy: 1284, 1008
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
 UnitIcons/Background
   rotate: false
-  xy: 1284, 942
+  xy: 1284, 1008
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
@@ -508,6 +494,13 @@ ResourceIcons/resource_Mine
   orig: 128, 128
   offset: 0, 0
   index: -1
+ResourceIcons/资源_矿物
+  rotate: false
+  xy: 598, 40
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 ResourceIcons/resource_PortableFood
   rotate: false
   xy: 734, 40
@@ -535,7 +528,7 @@ Skins/DeepSky - given up/bottombarstats
   index: -1
 Skins/DeepSky - given up/notification
   rotate: false
-  xy: 1344, 740
+  xy: 1632, 1154
   size: 52, 50
   split: 19, 20, 19, 21
   pad: 12, 13, 7, 7
@@ -585,1850 +578,1864 @@ StatIcons/Gold
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechPortraits/null_void_beam
+TechPortraits/L星门启动
   rotate: false
-  xy: 1284, 1002
-  size: 58, 58
-  orig: 58, 58
-  offset: 0, 0
-  index: -1
-TechPortraits/repeatable_diplomacy_tech
-  rotate: false
-  xy: 1632, 1152
+  xy: 1284, 948
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_adaptive_bureaucracy
+TechPortraits/L星门认知
+  rotate: false
+  xy: 1284, 948
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/X射线发射器
+  rotate: false
+  xy: 1284, 888
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/中子发射器
+  rotate: false
+  xy: 1692, 1152
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/中子灭杀
+  rotate: false
+  xy: 1752, 1162
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/主动反制
   rotate: false
   xy: 1812, 1220
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_adaptive_combat_algorithms
+TechPortraits/主动适应
   rotate: false
   xy: 1812, 1160
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_administrative_ai
+TechPortraits/主宰
   rotate: false
-  xy: 1353, 680
+  xy: 1404, 1084
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_advanced_metallurgy
+TechPortraits/二进制内驱程序
   rotate: false
-  xy: 1353, 620
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_advanced_metallurgy
-  rotate: false
-  xy: 1410, 1084
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_afterburners
-  rotate: false
-  xy: 1470, 1084
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_afterburners
-  rotate: false
-  xy: 1530, 1084
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_akx_worm
-  rotate: false
-  xy: 1410, 1024
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_akx_worm
-  rotate: false
-  xy: 1470, 1024
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_akx_worm
-  rotate: false
-  xy: 1530, 1024
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_alien_life_studies
-  rotate: false
-  xy: 1590, 1084
+  xy: 1404, 1024
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_alien_sanctuary
+TechPortraits/交叉模组标准化
   rotate: false
-  xy: 1590, 1024
+  xy: 1404, 1024
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_alien_topography
+TechPortraits/互联支援系统
+  rotate: false
+  xy: 1464, 1084
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/亚空间传感器
   rotate: false
   xy: 1404, 964
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_alloys
+TechPortraits/人工智能殖民船
+  rotate: false
+  xy: 1464, 1024
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/人工道德规范
+  rotate: false
+  xy: 1524, 1084
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/集体生产方法
+  rotate: false
+  xy: 1524, 1084
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/人造龙鳞装甲
   rotate: false
   xy: 1404, 904
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_alloys
+  index: -1
+TechPortraits/传承遗迹
   rotate: false
   xy: 1464, 964
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 2
-TechPortraits/tech_alloys
+  index: -1
+TechPortraits/伽马激光发射器
+  rotate: false
+  xy: 1524, 1024
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/偏射盾
   rotate: false
   xy: 1404, 844
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 3
-TechPortraits/tech_amoeba_strike_craft
+  index: -1
+TechPortraits/兆级加农炮
   rotate: false
   xy: 1464, 904
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_antimatter_power
+  index: -1
+TechPortraits/先进加力燃烧室
   rotate: false
   xy: 1524, 964
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_arc_emitter
+TechPortraits/先进动能火炮
   rotate: false
   xy: 1404, 784
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_arc_emitter
+  index: -1
+TechPortraits/先进反应堆增压器
   rotate: false
   xy: 1464, 844
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 2
-TechPortraits/tech_arcane_deciphering
+  index: -1
+TechPortraits/先进型舰载机
   rotate: false
   xy: 1524, 904
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_archaeo_detection_scrambler
+TechPortraits/先进巡洋舰船体
   rotate: false
-  xy: 1584, 964
+  xy: 1404, 724
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_archaeo_lasers
+TechPortraits/先进战列舰船体
   rotate: false
   xy: 1464, 784
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_archaeo_mass_accelerator
+TechPortraits/先进护卫舰船体
   rotate: false
   xy: 1524, 844
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_archaeo_mass_drivers
+TechPortraits/先进护盾
   rotate: false
-  xy: 1584, 904
+  xy: 1404, 664
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_archaeo_missiles
+TechPortraits/先进泰坦船体
+  rotate: false
+  xy: 1464, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/先进矿物提纯
   rotate: false
   xy: 1524, 784
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_archaeo_overcharger
+TechPortraits/先进轨道炮
+  rotate: false
+  xy: 1464, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/先进驱逐舰船体
+  rotate: false
+  xy: 1524, 724
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/克隆
+  rotate: false
+  xy: 1524, 664
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/全息仪式
+  rotate: false
+  xy: 1584, 1084
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/全息影像娱乐
+  rotate: false
+  xy: 1584, 1024
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/全球生产策略
+  rotate: false
+  xy: 1584, 964
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/全球能源管理
+  rotate: false
+  xy: 1584, 904
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/全球防御网络
   rotate: false
   xy: 1584, 844
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_archaeo_pk_devolving_beam
+TechPortraits/具现物力论
   rotate: false
   xy: 1584, 784
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_archaeo_point_defence
+TechPortraits/集体自我
   rotate: false
-  xy: 1353, 560
+  xy: 1584, 784
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_archaeo_rampart
+TechPortraits/再生舰体组织
   rotate: false
-  xy: 1650, 1084
+  xy: 1584, 724
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_archaeo_refinery
+TechPortraits/农业乌托邦
   rotate: false
-  xy: 1650, 1024
+  xy: 1584, 664
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_archaeo_strike_crafts
+TechPortraits/农业工业化
   rotate: false
-  xy: 1644, 964
+  xy: 1404, 604
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_archaeo_titan_beam
+TechPortraits/冷核聚变能源
   rotate: false
-  xy: 1644, 904
+  xy: 1464, 604
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_archaeoarmor
+TechPortraits/准维映射
   rotate: false
-  xy: 1644, 844
+  xy: 1524, 604
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_archaeoshield
+TechPortraits/力场遏制
   rotate: false
-  xy: 1644, 784
+  xy: 1584, 604
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_archaeostudies
-  rotate: false
-  xy: 1710, 1084
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_archeology_lab
-  rotate: false
-  xy: 1710, 1024
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_armor_hardeners
-  rotate: false
-  xy: 1704, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_armor_hardeners
-  rotate: false
-  xy: 1704, 904
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_artificial_moral_codes
-  rotate: false
-  xy: 1704, 844
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_collective_production_methods
-  rotate: false
-  xy: 1704, 844
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_ascension_theory
-  rotate: false
-  xy: 1704, 784
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_ascension_theory_apoc
-  rotate: false
-  xy: 1704, 784
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_assault_armies
-  rotate: false
-  xy: 1770, 1094
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_assembly_pattern
-  rotate: false
-  xy: 1770, 1034
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_assisted_detection
-  rotate: false
-  xy: 1830, 1100
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_astral_harvesting
-  rotate: false
-  xy: 1830, 1040
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_atmospheric_manipulation
-  rotate: false
-  xy: 1413, 724
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_atmospheric_orbital_mechanics
-  rotate: false
-  xy: 1413, 664
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_autocannons
-  rotate: false
-  xy: 1473, 724
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_autocannons
-  rotate: false
-  xy: 1413, 604
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_autocannons
-  rotate: false
-  xy: 1473, 664
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_autocurating_vault
-  rotate: false
-  xy: 1533, 724
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_automated_exploration
-  rotate: false
-  xy: 1473, 604
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_autonomous_agents
-  rotate: false
-  xy: 1533, 664
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_living_state
-  rotate: false
-  xy: 1533, 664
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_auxiliary_fire_control
-  rotate: false
-  xy: 1593, 724
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_basic_industry
-  rotate: false
-  xy: 1533, 604
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_basic_science_lab1
-  rotate: false
-  xy: 1593, 664
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_basic_science_lab2
-  rotate: false
-  xy: 1653, 724
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_basic_science_lab3
-  rotate: false
-  xy: 1593, 604
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_battleship_build_speed
-  rotate: false
-  xy: 1653, 664
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_battleship_hull
-  rotate: false
-  xy: 1653, 604
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_battleship_hull
-  rotate: false
-  xy: 1713, 724
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_battleships
-  rotate: false
-  xy: 1713, 664
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_binary_motivators
-  rotate: false
-  xy: 1713, 604
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_robomodding_points
-  rotate: false
-  xy: 1713, 604
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_bio_reactor
-  rotate: false
-  xy: 1413, 544
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_bio_reactor
-  rotate: false
-  xy: 1473, 544
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_biomechanics
-  rotate: false
-  xy: 1533, 544
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_synthetic_self_maintaining_shell
-  rotate: false
-  xy: 1533, 544
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_btc
-  rotate: false
-  xy: 1593, 544
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_pk_nanobots
-  rotate: false
-  xy: 1593, 544
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_capacity_boosters
-  rotate: false
-  xy: 1653, 544
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_capital_productivity
-  rotate: false
-  xy: 1713, 544
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_capital_productivity
+TechPortraits/加力燃烧室
   rotate: false
   xy: 1872, 1232
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 2
-TechPortraits/tech_capital_productivity
+  index: -1
+TechPortraits/动力外骨骼
   rotate: false
   xy: 1872, 1172
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 3
-TechPortraits/tech_centralized_command
+  index: -1
+TechPortraits/动能火炮
   rotate: false
-  xy: 1890, 1112
+  xy: 1752, 1102
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_climate_restoration
+TechPortraits/化学推进器
   rotate: false
-  xy: 1890, 1052
+  xy: 1812, 1100
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_cloaking
+TechPortraits/千兆级加农炮
   rotate: false
-  xy: 1890, 992
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_cloaking
-  rotate: false
-  xy: 1830, 980
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_cloaking
-  rotate: false
-  xy: 1770, 974
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_cloaking_psi
-  rotate: false
-  xy: 1764, 914
+  xy: 1872, 1112
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_clone_soldier_fertility
+TechPortraits/反应堆增压器
   rotate: false
-  xy: 1764, 854
+  xy: 1932, 1169
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_genetic_resequencing
+TechPortraits/反物质导弹
   rotate: false
-  xy: 1764, 854
+  xy: 1992, 1169
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_cloning
+TechPortraits/反物质能源
   rotate: false
-  xy: 1764, 794
+  xy: 1932, 1109
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_cold_fusion_power
+TechPortraits/反重力工程
   rotate: false
-  xy: 1773, 734
+  xy: 1992, 1109
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_collective_self
+TechPortraits/变形虫育种计划
   rotate: false
-  xy: 1773, 674
+  xy: 1872, 1052
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_embodied_dynamism
+TechPortraits/可替换电路
   rotate: false
-  xy: 1773, 674
+  xy: 1932, 1049
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_colonial_bureaucracy
+TechPortraits/纳米装配机
   rotate: false
-  xy: 1773, 614
+  xy: 1932, 1049
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_colonial_centralization
+TechPortraits/司令幕僚
   rotate: false
-  xy: 1773, 554
+  xy: 1992, 1049
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_colonization
+TechPortraits/合成人
   rotate: false
-  xy: 1890, 932
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_colonization
-  rotate: false
-  xy: 1830, 920
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_colonization
-  rotate: false
-  xy: 1824, 860
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_colonization
-  rotate: false
-  xy: 1824, 800
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 4
-TechPortraits/tech_colonization
-  rotate: false
-  xy: 1833, 740
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 5
-TechPortraits/tech_colossus
-  rotate: false
-  xy: 1833, 680
+  xy: 1644, 1092
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_combat_computers
+TechPortraits/合成人人格矩阵
   rotate: false
-  xy: 1833, 620
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_combat_computers
-  rotate: false
-  xy: 1833, 560
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_combat_computers
-  rotate: false
-  xy: 1890, 872
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_combat_computers_autonomous
-  rotate: false
-  xy: 1890, 872
+  xy: 1644, 1032
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_combat_training
+TechPortraits/同时崩塌存储
   rotate: false
-  xy: 1884, 812
+  xy: 1644, 972
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_command_matrix
+TechPortraits/同步开火模式
   rotate: false
-  xy: 1893, 752
+  xy: 1644, 912
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_compact_living
+TechPortraits/同步防御
   rotate: false
-  xy: 1893, 692
+  xy: 1644, 852
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_consecration_fields
+TechPortraits/哨兵阵列建造
   rotate: false
-  xy: 1893, 632
+  xy: 1644, 792
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_construction_templates
+TechPortraits/固态全息铸模
   rotate: false
-  xy: 1893, 572
+  xy: 1644, 732
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_consumer_good_refinement
+TechPortraits/土壤修复
   rotate: false
-  xy: 1944, 812
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_consumer_good_refinement
-  rotate: false
-  xy: 1953, 752
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_corvette_build_speed
-  rotate: false
-  xy: 1953, 692
+  xy: 1644, 672
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_corvette_hull
+TechPortraits/地下殖民
   rotate: false
-  xy: 1953, 632
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_corvette_hull
-  rotate: false
-  xy: 1953, 572
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_corvettes
-  rotate: false
-  xy: 1893, 512
+  xy: 1644, 612
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_cosmogenesis_FE_titan
+TechPortraits/地壳深部工程
   rotate: false
-  xy: 1953, 512
+  xy: 1704, 1042
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_cosmogenesis_battlecruiser
+TechPortraits/地心开采
   rotate: false
-  xy: 1833, 500
+  xy: 1704, 982
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_cosmogenesis_crisis
+TechPortraits/地热水力压裂
   rotate: false
-  xy: 1773, 494
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_cosmogenesis_crisis
-  rotate: false
-  xy: 1893, 452
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_cosmogenesis_crisis
-  rotate: false
-  xy: 1953, 452
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_cosmogenesis_crisis
-  rotate: false
-  xy: 1833, 440
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 4
-TechPortraits/tech_cosmogenesis_crisis
-  rotate: false
-  xy: 1893, 392
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 5
-TechPortraits/tech_cosmogenesis_escort
-  rotate: false
-  xy: 1953, 392
+  xy: 1704, 922
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_cosmogenesis_thesis
+TechPortraits/地爆天星
+  rotate: false
+  xy: 1704, 862
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/地表塑造
+  rotate: false
+  xy: 1704, 802
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/地表重塑
+  rotate: false
+  xy: 1704, 742
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/地面防御计划
+  rotate: false
+  xy: 1704, 682
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/基因健康保障
+  rotate: false
+  xy: 1704, 622
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/细胞修复
+  rotate: false
+  xy: 1704, 622
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/基因剪裁
+  rotate: false
+  xy: 1764, 1040
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/基因图谱
+  rotate: false
+  xy: 1764, 980
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/基因定向表达
+  rotate: false
+  xy: 1764, 920
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/基因库
+  rotate: false
+  xy: 1764, 860
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/基因种子纯化
+  rotate: false
+  xy: 1764, 800
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/基因重组
+  rotate: false
+  xy: 1764, 740
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/基础作战电脑
+  rotate: false
+  xy: 1764, 680
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/塑钢材料
+  rotate: false
+  xy: 1764, 620
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/复制机终端
+  rotate: false
+  xy: 1824, 992
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/外太空建设
+  rotate: false
+  xy: 1824, 932
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/外星土壤肥化
+  rotate: false
+  xy: 1824, 872
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/外星拓展中介
+  rotate: false
+  xy: 1824, 812
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/外星材料实验室
+  rotate: false
+  xy: 1824, 752
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/外星贸易公司
+  rotate: false
+  xy: 1824, 692
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/多维分析
+  rotate: false
+  xy: 1824, 632
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/多维研究
+  rotate: false
+  xy: 1704, 562
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/大气纳米机器人散布
+  rotate: false
+  xy: 1644, 552
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/星爆器
+  rotate: false
+  xy: 1644, 552
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/大气过滤
+  rotate: false
+  xy: 1764, 560
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/天灾导弹
+  rotate: false
+  xy: 1824, 572
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/太空战斗
+  rotate: false
+  xy: 1884, 989
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/太空探索
+  rotate: false
+  xy: 1884, 929
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/太空鱼雷
+  rotate: false
+  xy: 1944, 989
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/太虚光束
+  rotate: false
+  xy: 1884, 869
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/奇异循环
+  rotate: false
+  xy: 1944, 929
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/奥术解密
+  rotate: false
+  xy: 1884, 809
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/奴隶星球
+  rotate: false
+  xy: 1944, 869
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/安乐天使
+  rotate: false
+  xy: 1884, 749
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/小型预点火装置
+  rotate: false
+  xy: 1944, 809
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/居住站扩建
+  rotate: false
+  xy: 1884, 689
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/巡洋舰
+  rotate: false
+  xy: 1944, 749
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/工业基地
+  rotate: false
+  xy: 1884, 629
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/工兵部队
+  rotate: false
+  xy: 1944, 689
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/巨像
+  rotate: false
+  xy: 1944, 629
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/巨型结构工程
+  rotate: false
+  xy: 1884, 569
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/巨型船坞建造
+  rotate: false
+  xy: 1944, 569
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/巨型艺术设施建造
+  rotate: false
+  xy: 1824, 512
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/巨型装配系统
+  rotate: false
+  xy: 1884, 509
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/市场分析算法
+  rotate: false
+  xy: 1944, 509
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/应用量子力学
+  rotate: false
+  xy: 1704, 502
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/度假星球
+  rotate: false
+  xy: 1764, 500
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/建造模板
+  rotate: false
+  xy: 1824, 452
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/异星关系学
+  rotate: false
+  xy: 1884, 449
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/异星天然气开采
+  rotate: false
+  xy: 1944, 449
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/异星天然气精炼
+  rotate: false
+  xy: 1944, 449
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/异种外交
   rotate: false
   xy: 1075, 632
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_cosmogenesis_world
+TechPortraits/异种水力掌控
   rotate: false
   xy: 1075, 572
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_covenant_composer
+TechPortraits/异种生物学
   rotate: false
   xy: 1135, 616
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_covenant_instrument
-  rotate: false
-  xy: 1135, 616
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_covenant_whisperers
-  rotate: false
-  xy: 1135, 616
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_critter_feeder
+TechPortraits/引力分析
   rotate: false
   xy: 1135, 556
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_cruiser_build_speed
+TechPortraits/强化核心层
+  rotate: false
+  xy: 1195, 616
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/形态发生学精通
+  rotate: false
+  xy: 1195, 556
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/微型复制机
   rotate: false
   xy: 1101, 496
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_cruiser_hull
+TechPortraits/微型遏制力场
   rotate: false
   xy: 1101, 436
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_cruiser_hull
+  index: -1
+TechPortraits/微粒稳定化
   rotate: false
   xy: 1161, 496
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 2
-TechPortraits/tech_cruisers
+  index: -1
+TechPortraits/易爆材料生产厂
+  rotate: false
+  xy: 1161, 496
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/心灵感应
   rotate: false
   xy: 1161, 436
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_cryostasis
+TechPortraits/快子传感器
   rotate: false
   xy: 1126, 376
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_cryostasis
+  index: -1
+TechPortraits/快子光矛
   rotate: false
   xy: 1126, 316
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 2
-TechPortraits/tech_crystal_armor
+  index: -1
+TechPortraits/快速冷却剂
   rotate: false
   xy: 1126, 256
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_crystal_armor
+  index: -1
+TechPortraits/思想钢印
   rotate: false
   xy: 1126, 196
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 2
-TechPortraits/tech_cultural_heritage
+  index: -1
+TechPortraits/思想集簇
   rotate: false
   xy: 1126, 136
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_curator_lab
+TechPortraits/恒星基地建设
   rotate: false
   xy: 1126, 76
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_cybernetic_brain_implants
+TechPortraits/恶劣环境适应
   rotate: false
   xy: 1126, 16
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_cybernetic_brain_implants
+  index: -1
+TechPortraits/战列舰
   rotate: false
   xy: 1186, 376
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 2
-TechPortraits/tech_cybernetic_brain_implants
+  index: -1
+TechPortraits/战斗训练
   rotate: false
   xy: 1186, 316
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 3
-TechPortraits/tech_cybernetic_power_saving
+  index: -1
+TechPortraits/战略指挥中心
   rotate: false
   xy: 1186, 256
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_integrated_cybernetics
-  rotate: false
-  xy: 1186, 256
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_dangerous_wildlife
+TechPortraits/戴森球建造
   rotate: false
   xy: 1186, 196
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_dark_matter_deflector
+TechPortraits/护卫舰
   rotate: false
   xy: 1186, 136
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_dark_matter_detection
+TechPortraits/护盾
   rotate: false
   xy: 1186, 76
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_dark_matter_power_core
+TechPortraits/护盾数律分析
   rotate: false
   xy: 1186, 16
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_dark_matter_propulsion
+TechPortraits/护盾电容
   rotate: false
-  xy: 1195, 588
+  xy: 1221, 496
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_databank_uplinks
+TechPortraits/拜金教数据建模
   rotate: false
-  xy: 1221, 528
+  xy: 1221, 436
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_decryption
+TechPortraits/择优血脉
   rotate: false
-  xy: 1221, 468
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_decryption
-  rotate: false
-  xy: 1281, 542
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_decryption
-  rotate: false
-  xy: 1281, 482
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_deep_sinkhole
-  rotate: false
-  xy: 1341, 500
+  xy: 1246, 376
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_defense_platform_hull
+TechPortraits/指挥矩阵
+  rotate: false
+  xy: 1246, 316
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/授圣力场
+  rotate: false
+  xy: 1246, 256
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/掠夺者导弹
+  rotate: false
+  xy: 1246, 196
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/提取模式
+  rotate: false
+  xy: 1246, 136
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/撕裂者机关炮
+  rotate: false
+  xy: 1246, 76
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/擎天堡
+  rotate: false
+  xy: 1246, 16
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/支援船队
+  rotate: false
+  xy: 1255, 624
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/改善结构完整性
+  rotate: false
+  xy: 1255, 564
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/改良偏射盾
+  rotate: false
+  xy: 1315, 568
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/改良反应堆增压器
+  rotate: false
+  xy: 1281, 504
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/改良型舰载机
+  rotate: false
+  xy: 1281, 444
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/改装标准
+  rotate: false
+  xy: 1341, 508
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/改进巡洋舰船体
+  rotate: false
+  xy: 1341, 448
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/改进战列舰船体
+  rotate: false
+  xy: 1306, 384
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/改进护卫舰船体
+  rotate: false
+  xy: 1306, 324
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/改进泰坦船体
+  rotate: false
+  xy: 1306, 264
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/改进生产
+  rotate: false
+  xy: 1306, 204
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/改进驱逐舰船体
+  rotate: false
+  xy: 1306, 144
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/新世界协议
+  rotate: false
+  xy: 1306, 84
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/旋风导弹
+  rotate: false
+  xy: 1306, 24
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/时空理论
+  rotate: false
+  xy: 1366, 388
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/星垒
+  rotate: false
+  xy: 1366, 328
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/星堡
+  rotate: false
+  xy: 1366, 268
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/星河官僚制
+  rotate: false
+  xy: 1366, 208
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/星河战役
+  rotate: false
+  xy: 1366, 148
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/星港
+  rotate: false
+  xy: 1366, 88
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/星环基地
+  rotate: false
+  xy: 1366, 28
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/星系管理
+  rotate: false
+  xy: 1401, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/星门建造
+  rotate: false
+  xy: 1461, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/星门激活
   rotate: false
   xy: 1401, 484
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_dense_jungle
+  index: -1
+TechPortraits/星际后勤
+  rotate: false
+  xy: 1521, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/星际战争
   rotate: false
   xy: 1461, 484
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_destroyer_build_speed
+TechPortraits/星际战役
+  rotate: false
+  xy: 1581, 544
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/星际扩张
   rotate: false
   xy: 1521, 484
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_destroyer_hull
+TechPortraits/星际经济学
   rotate: false
   xy: 1581, 484
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_destroyer_hull
+  index: -1
+TechPortraits/星际舰队传统
   rotate: false
-  xy: 1641, 484
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_destroyers
-  rotate: false
-  xy: 1701, 484
+  xy: 1641, 492
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_detection_array
+TechPortraits/星际贸易
   rotate: false
-  xy: 1341, 440
+  xy: 1426, 424
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_disruptors
+TechPortraits/星际远征军
   rotate: false
-  xy: 1281, 422
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_disruptors
-  rotate: false
-  xy: 1401, 424
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_disruptors
-  rotate: false
-  xy: 1461, 424
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_doctrine_fleet_size
-  rotate: false
-  xy: 1521, 424
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_doctrine_fleet_size
-  rotate: false
-  xy: 1581, 424
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_doctrine_fleet_size
-  rotate: false
-  xy: 1641, 424
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_doctrine_fleet_size
-  rotate: false
-  xy: 1701, 424
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 4
-TechPortraits/tech_doctrine_fleet_size
-  rotate: false
-  xy: 1761, 434
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 5
-TechPortraits/tech_doctrine_navy_size
-  rotate: false
-  xy: 1341, 380
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_doctrine_navy_size
-  rotate: false
-  xy: 1401, 364
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_doctrine_navy_size
-  rotate: false
-  xy: 1461, 364
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_doctrine_navy_size
-  rotate: false
-  xy: 1521, 364
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 4
-TechPortraits/tech_dragon_armor
-  rotate: false
-  xy: 1581, 364
+  xy: 1426, 364
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_droid_workers
+TechPortraits/星际集会建造
   rotate: false
-  xy: 1641, 364
+  xy: 1486, 424
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_dyson_sphere
-  rotate: false
-  xy: 1701, 364
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_dyson_swarm
-  rotate: false
-  xy: 1761, 374
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_eco_simulation
-  rotate: false
-  xy: 1821, 380
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_ecological_adaptation
-  rotate: false
-  xy: 1246, 362
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_effective_bureaucracy
-  rotate: false
-  xy: 1246, 302
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_encryption
-  rotate: false
-  xy: 1246, 242
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_encryption
-  rotate: false
-  xy: 1246, 182
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_encryption
-  rotate: false
-  xy: 1246, 122
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_energy_lance
-  rotate: false
-  xy: 1246, 62
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_energy_lance
-  rotate: false
-  xy: 1306, 320
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_energy_torpedoes
-  rotate: false
-  xy: 1306, 260
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_energy_torpedoes
-  rotate: false
-  xy: 1306, 200
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_engineering
-  rotate: false
-  xy: 1306, 140
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_engineering
-  rotate: false
-  xy: 1306, 80
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_engineering
-  rotate: false
-  xy: 1366, 304
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_engineering
-  rotate: false
-  xy: 1366, 244
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 4
-TechPortraits/tech_enigmatic_decoder
+TechPortraits/昭昭天命
   rotate: false
   xy: 1426, 304
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_enigmatic_encoder
+TechPortraits/智能人
   rotate: false
-  xy: 1366, 184
+  xy: 1486, 364
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_epigenetic_triggers
+TechPortraits/智能作战电脑
+  rotate: false
+  xy: 1546, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/自律舰船智能
+  rotate: false
+  xy: 1546, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/暗物质偏射护盾
   rotate: false
   xy: 1426, 244
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_executive_retreat
+TechPortraits/暗物质推进
   rotate: false
   xy: 1486, 304
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_exotic_gases
+TechPortraits/暗物质收集
   rotate: false
-  xy: 1366, 124
+  xy: 1546, 364
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_experimental_subspace_navigation
+TechPortraits/暗物质能源
   rotate: false
   xy: 1426, 184
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_extradimensional_weapon
+TechPortraits/最大化产能
   rotate: false
   xy: 1486, 244
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_fe_administration
+  index: -1
+TechPortraits/本地超通讯
   rotate: false
   xy: 1546, 304
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_fe_administration
+  index: -1
+TechPortraits/机关炮
   rotate: false
   xy: 1426, 124
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 2
-TechPortraits/tech_fe_affluence
+  index: -1
+TechPortraits/机动舰队模板
   rotate: false
   xy: 1486, 184
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_fe_affluence
+  index: -1
+TechPortraits/机器人劳工
   rotate: false
   xy: 1546, 244
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 2
-TechPortraits/tech_fe_assembly
-  rotate: false
-  xy: 1606, 304
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_fe_assembly
-  rotate: false
-  xy: 1486, 124
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_fe_clinic
-  rotate: false
-  xy: 1546, 184
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_fe_clinic
-  rotate: false
-  xy: 1606, 244
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_fe_dome
-  rotate: false
-  xy: 1666, 304
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_fe_dome
-  rotate: false
-  xy: 1546, 124
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_fe_entertainment
-  rotate: false
-  xy: 1606, 184
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_fe_entertainment
-  rotate: false
-  xy: 1666, 244
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_fe_fabricator
-  rotate: false
-  xy: 1606, 124
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_fe_fabricator
-  rotate: false
-  xy: 1666, 184
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_fe_forge
-  rotate: false
-  xy: 1666, 124
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_fe_forge
-  rotate: false
-  xy: 1366, 64
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_fe_fortress
+  index: -1
+TechPortraits/机械化开采
   rotate: false
   xy: 1426, 64
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_fe_fortress
-  rotate: false
-  xy: 1486, 64
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_fe_lab
-  rotate: false
-  xy: 1546, 64
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_fe_lab
-  rotate: false
-  xy: 1606, 64
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_fe_market
-  rotate: false
-  xy: 1666, 64
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_fe_market
-  rotate: false
-  xy: 1726, 304
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_fe_mine
-  rotate: false
-  xy: 1726, 244
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_fe_mine
-  rotate: false
-  xy: 1726, 184
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_fe_nourishment
-  rotate: false
-  xy: 1726, 124
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_fe_nourishment
-  rotate: false
-  xy: 1726, 64
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_fe_security
-  rotate: false
-  xy: 1306, 20
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_fe_security
-  rotate: false
-  xy: 1366, 4
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_fe_silo
+  index: -1
+TechPortraits/机械模板系统
   rotate: false
   xy: 1426, 4
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_fe_silo
+  index: -1
+TechPortraits/极乐广场
+  rotate: false
+  xy: 1486, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/标准化巡洋舰模板
+  rotate: false
+  xy: 1546, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/标准化战列舰模板
+  rotate: false
+  xy: 1486, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/标准化护卫舰模板
   rotate: false
   xy: 1486, 4
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 2
-TechPortraits/tech_fe_singularity
+  index: -1
+TechPortraits/标准化驱逐舰模板
+  rotate: false
+  xy: 1546, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/核导弹
+  rotate: false
+  xy: 1546, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/模块化工程
   rotate: false
   xy: 1546, 4
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_fe_singularity
+  index: -1
+TechPortraits/模拟社会工程
+  rotate: false
+  xy: 1606, 424
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/欧米茄理论
+  rotate: false
+  xy: 1606, 364
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/正电子人工智能
+  rotate: false
+  xy: 1606, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/正电子脑植入体
+  rotate: false
+  xy: 1606, 304
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/死寂星球适应
+  rotate: false
+  xy: 1606, 244
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/殖民官僚制
+  rotate: false
+  xy: 1606, 184
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/殖民集中
+  rotate: false
+  xy: 1606, 124
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/毁灭者鱼雷
+  rotate: false
+  xy: 1606, 64
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/气候复苏
   rotate: false
   xy: 1606, 4
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 2
-TechPortraits/tech_fission_power
+  index: -1
+TechPortraits/气候控制系统
   rotate: false
-  xy: 1666, 4
+  xy: 1666, 432
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_flak_batteries
+TechPortraits/气候控制网络
   rotate: false
-  xy: 1726, 4
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_flak_batteries
-  rotate: false
-  xy: 1786, 314
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_flak_batteries
-  rotate: false
-  xy: 1786, 254
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_food_processing
-  rotate: false
-  xy: 1786, 194
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_food_processing
-  rotate: false
-  xy: 1786, 134
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_frontier_health
-  rotate: false
-  xy: 1786, 74
+  xy: 1666, 372
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_frontier_hospital
+TechPortraits/水培农业
   rotate: false
-  xy: 1786, 74
+  xy: 1666, 312
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_intelligent_factories
+TechPortraits/水晶复合镀层
   rotate: false
-  xy: 1786, 74
+  xy: 1666, 252
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_modular_components
+TechPortraits/水晶锻造镀层
   rotate: false
-  xy: 1786, 74
+  xy: 1666, 192
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_ftl_inhibitor
+TechPortraits/泛星系贸易市场
   rotate: false
-  xy: 1786, 14
+  xy: 1666, 132
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_fusion_power
+TechPortraits/泰坦
   rotate: false
-  xy: 1846, 320
+  xy: 1666, 72
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_galactic_administration
+TechPortraits/活体国度
   rotate: false
-  xy: 1846, 260
+  xy: 1666, 12
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_galactic_ambitions
+TechPortraits/自主代理
   rotate: false
-  xy: 1846, 200
+  xy: 1666, 12
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_galactic_bureaucracy
+TechPortraits/活体金属
   rotate: false
-  xy: 1846, 140
+  xy: 1726, 440
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_galactic_campaigns
+TechPortraits/活性增强剂
   rotate: false
-  xy: 1846, 80
+  xy: 1726, 380
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_galactic_markets
+TechPortraits/海洋生态管理
   rotate: false
-  xy: 1846, 20
+  xy: 1726, 320
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_gargantuan_evolution
+TechPortraits/深空防御
   rotate: false
-  xy: 1906, 332
+  xy: 1726, 260
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_gateway_activation
+TechPortraits/清除危险野生动物
   rotate: false
-  xy: 1906, 272
+  xy: 1726, 200
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_gateway_construction
+TechPortraits/火风暴机关炮
   rotate: false
-  xy: 1906, 212
+  xy: 1726, 140
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_gene_banks
+TechPortraits/灵巧编队
   rotate: false
-  xy: 1906, 152
+  xy: 1726, 80
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_gene_crops
+TechPortraits/灵活机构
   rotate: false
-  xy: 1906, 92
+  xy: 1726, 20
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_gene_expressions
+TechPortraits/灵能屏障
   rotate: false
-  xy: 1906, 32
+  xy: 1786, 392
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_gene_seed_purification
+TechPortraits/灵能护盾
   rotate: false
-  xy: 1966, 332
+  xy: 1786, 392
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_gene_tailoring
+TechPortraits/灵能理论
   rotate: false
-  xy: 1966, 272
+  xy: 1786, 332
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_genetic_dna_compatibility
+TechPortraits/灵能跃迁引擎
   rotate: false
-  xy: 1966, 272
+  xy: 1786, 272
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_genetic_resequencing_cleanup
+TechPortraits/热力学当量控制
   rotate: false
-  xy: 1966, 212
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_genetic_resequencing_cleanup
-  rotate: false
-  xy: 1966, 152
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_genetic_resequencing_cleanup
-  rotate: false
-  xy: 1966, 92
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_genome_mapping
-  rotate: false
-  xy: 1966, 32
+  xy: 1786, 212
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_glandular_acclimation
+TechPortraits/熵递归
   rotate: false
-  xy: 1950, 1169
+  xy: 1786, 152
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_global_defense_grid
+TechPortraits/物质压缩
   rotate: false
-  xy: 1950, 1109
+  xy: 1786, 92
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_global_production_strategy
+TechPortraits/物质解压器建造
   rotate: false
-  xy: 1950, 1049
+  xy: 1786, 32
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_global_research_initiative
+TechPortraits/环形世界
   rotate: false
-  xy: 1950, 989
+  xy: 1846, 389
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_ground_defense_planning
+TechPortraits/瓷金基础设施
   rotate: false
-  xy: 1950, 929
+  xy: 1846, 329
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/瓷金复合材料
+  rotate: false
+  xy: 1906, 389
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/生命的秘密
+  rotate: false
+  xy: 1846, 269
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/生态整合研究
+  rotate: false
+  xy: 1906, 329
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/生态模拟
+  rotate: false
+  xy: 1846, 209
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/生态适应
+  rotate: false
+  xy: 1906, 269
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/生物力学
+  rotate: false
+  xy: 1846, 149
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/生物反应堆
+  rotate: false
+  xy: 1906, 209
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/生物多样性研究
+  rotate: false
+  xy: 1846, 89
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/田园建筑学
+  rotate: false
+  xy: 1906, 149
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/电弧发射器
+  rotate: false
+  xy: 1906, 89
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/皮下刺激
+  rotate: false
+  xy: 1846, 29
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/相位裂解炮
+  rotate: false
+  xy: 1906, 29
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/矿物分离
+  rotate: false
+  xy: 1966, 389
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/矿物提纯
+  rotate: false
+  xy: 1966, 329
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/矿石切割束
+  rotate: false
+  xy: 1966, 269
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/社会文化历史
+  rotate: false
+  xy: 1966, 209
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/神圣激素
+  rotate: false
+  xy: 1966, 149
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/神秘编码器
+  rotate: false
+  xy: 1966, 89
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+TechPortraits/神秘解码器
+  rotate: false
+  xy: 1966, 29
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
@@ -2722,139 +2729,139 @@ UnitIcons/unit_ColonialPioneer
   index: -1
 
 game2.png
-size: 2048, 1024
+size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-PolicyIcons/idt_Authoritarianism
+PolicyIcons/专制主义
   rotate: false
-  xy: 1264, 687
+  xy: 844, 4
   size: 29, 29
   orig: 29, 29
   offset: 0, 0
   index: -1
-PolicyIcons/idt_Egalitarianism
+PolicyIcons/亲外主义
   rotate: false
-  xy: 1324, 747
+  xy: 881, 4
   size: 29, 29
   orig: 29, 29
   offset: 0, 0
   index: -1
-PolicyIcons/idt_GestaltConsciousness
+PolicyIcons/仁政主义
   rotate: false
-  xy: 1384, 807
+  xy: 1084, 299
   size: 29, 29
   orig: 29, 29
   offset: 0, 0
   index: -1
-PolicyIcons/idt_HiveMind
+PolicyIcons/仇外主义
   rotate: false
-  xy: 1144, 560
-  size: 36, 36
-  orig: 36, 36
-  offset: 0, 0
-  index: -1
-PolicyIcons/idt_Idealism
-  rotate: false
-  xy: 1444, 867
+  xy: 1144, 359
   size: 29, 29
   orig: 29, 29
   offset: 0, 0
   index: -1
-PolicyIcons/idt_Materialism
+PolicyIcons/和平主义
   rotate: false
-  xy: 1504, 927
+  xy: 1204, 419
   size: 29, 29
   orig: 29, 29
   offset: 0, 0
   index: -1
-PolicyIcons/idt_Militarism
+PolicyIcons/完型意识
   rotate: false
-  xy: 1564, 987
+  xy: 1264, 479
   size: 29, 29
   orig: 29, 29
   offset: 0, 0
   index: -1
-PolicyIcons/idt_Pacifism
+PolicyIcons/尚武主义
   rotate: false
-  xy: 664, 27
+  xy: 1301, 479
   size: 29, 29
   orig: 29, 29
   offset: 0, 0
   index: -1
-PolicyIcons/idt_Xenophilia
+PolicyIcons/意识主义
   rotate: false
-  xy: 724, 87
+  xy: 1338, 479
   size: 29, 29
   orig: 29, 29
   offset: 0, 0
   index: -1
-PolicyIcons/idt_Xenophobia
+PolicyIcons/排外主义
   rotate: false
-  xy: 784, 147
+  xy: 1375, 479
   size: 29, 29
   orig: 29, 29
   offset: 0, 0
   index: -1
-PolicyIcons/idt_fanatic_Authoritarianism
+PolicyIcons/文明主义
   rotate: false
-  xy: 844, 207
+  xy: 1412, 479
   size: 29, 29
   orig: 29, 29
   offset: 0, 0
   index: -1
-PolicyIcons/idt_fanatic_Egalitarianism
+PolicyIcons/物质主义
   rotate: false
-  xy: 904, 267
+  xy: 1449, 479
   size: 29, 29
   orig: 29, 29
   offset: 0, 0
   index: -1
-PolicyIcons/idt_fanatic_Idealism
+PolicyIcons/理想主义
   rotate: false
-  xy: 964, 332
+  xy: 1486, 479
   size: 29, 29
   orig: 29, 29
   offset: 0, 0
   index: -1
-PolicyIcons/idt_fanatic_Materialism
+PolicyIcons/生存主义
   rotate: false
-  xy: 1601, 987
+  xy: 1523, 479
   size: 29, 29
   orig: 29, 29
   offset: 0, 0
   index: -1
-PolicyIcons/idt_fanatic_Militarism
+PolicyIcons/科学主义
   rotate: false
-  xy: 1638, 987
+  xy: 1560, 479
   size: 29, 29
   orig: 29, 29
   offset: 0, 0
   index: -1
-PolicyIcons/idt_fanatic_Pacifism
+PolicyIcons/秩序主义
   rotate: false
-  xy: 1675, 987
+  xy: 1597, 479
   size: 29, 29
   orig: 29, 29
   offset: 0, 0
   index: -1
-PolicyIcons/idt_fanatic_Xenophilia
+PolicyIcons/精神主义
   rotate: false
-  xy: 1712, 987
+  xy: 1634, 479
   size: 29, 29
   orig: 29, 29
   offset: 0, 0
   index: -1
-PolicyIcons/idt_fanatic_Xenophobia
+PolicyIcons/联外主义
   rotate: false
-  xy: 1749, 987
+  xy: 1671, 479
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+PolicyIcons/蜂巢思维
+  rotate: false
+  xy: 1708, 479
   size: 29, 29
   orig: 29, 29
   offset: 0, 0
   index: -1
 Skins/DeepSky - given up/boxempty
   rotate: false
-  xy: 1883, 995
+  xy: 36, 7
   size: 21, 21
   split: 4, 4, 4, 4
   pad: 0, 0, 0, 0
@@ -2863,7 +2870,7 @@ Skins/DeepSky - given up/boxempty
   index: -1
 Skins/DeepSky - given up/checkbox
   rotate: false
-  xy: 1941, 995
+  xy: 65, 7
   size: 21, 21
   split: 8, 8, 8, 8
   pad: 0, 0, 0, 0
@@ -2872,7 +2879,7 @@ Skins/DeepSky - given up/checkbox
   index: -1
 Skins/DeepSky - given up/checkbox-pressed
   rotate: false
-  xy: 1912, 995
+  xy: 1810, 487
   size: 21, 21
   split: 8, 8, 8, 8
   pad: 0, 0, 0, 0
@@ -2881,7 +2888,7 @@ Skins/DeepSky - given up/checkbox-pressed
   index: -1
 Skins/DeepSky - given up/checkboxbottom
   rotate: false
-  xy: 1204, 611
+  xy: 1024, 223
   size: 21, 9
   split: 7, 7, 0, 5
   pad: 0, 0, 0, 0
@@ -2890,7 +2897,7 @@ Skins/DeepSky - given up/checkboxbottom
   index: -1
 Skins/DeepSky - given up/checkboxtop
   rotate: false
-  xy: 1264, 670
+  xy: 1084, 282
   size: 21, 9
   split: 7, 7, 5, 0
   pad: 0, 0, 0, 0
@@ -2899,7 +2906,7 @@ Skins/DeepSky - given up/checkboxtop
   index: -1
 Skins/DeepSky - given up/cityInfotable
   rotate: false
-  xy: 1852, 976
+  xy: 1779, 468
   size: 23, 40
   split: 8, 8, 2, 2
   pad: 0, 0, 0, 0
@@ -2908,7 +2915,7 @@ Skins/DeepSky - given up/cityInfotable
   index: -1
 Skins/DeepSky - given up/minimap_border
   rotate: false
-  xy: 964, 369
+  xy: 844, 41
   size: 47, 47
   split: 12, 12, 12, 12
   pad: 0, 0, 0, 0
@@ -2917,7 +2924,7 @@ Skins/DeepSky - given up/minimap_border
   index: -1
 Skins/DeepSky - given up/minimap_inside
   rotate: false
-  xy: 1024, 429
+  xy: 904, 101
   size: 47, 47
   split: 11, 11, 11, 11
   pad: 0, 0, 0, 0
@@ -2926,7 +2933,7 @@ Skins/DeepSky - given up/minimap_inside
   index: -1
 Skins/DeepSky - given up/rectangleWithOutline
   rotate: false
-  xy: 1786, 990
+  xy: 1745, 482
   size: 26, 26
   split: 8, 9, 8, 9
   pad: 0, 0, 0, 0
@@ -2935,7 +2942,7 @@ Skins/DeepSky - given up/rectangleWithOutline
   index: -1
 Skins/DeepSky - given up/thinrectangle
   rotate: false
-  xy: 1244, 647
+  xy: 1064, 259
   size: 9, 9
   split: 3, 3, 3, 3
   pad: 0, 0, 0, 0
@@ -2944,2270 +2951,1017 @@ Skins/DeepSky - given up/thinrectangle
   index: -1
 Skins/DeepSky - given up/unitstat
   rotate: false
-  xy: 1820, 992
+  xy: 4, 4
   size: 24, 24
   split: 2, 14, 14, 2
   pad: 0, 0, 0, 0
   orig: 24, 24
   offset: 0, 0
   index: -1
-TechPortraits/tech_habitat
+TechPortraits/流放地
   rotate: false
-  xy: 4, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_habitat
-  rotate: false
-  xy: 4, 904
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_habitat
-  rotate: false
-  xy: 64, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_heritage_site
-  rotate: false
-  xy: 4, 844
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_hive_confluence
-  rotate: false
-  xy: 64, 904
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_hive_node
-  rotate: false
-  xy: 124, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_holo_entertainment
-  rotate: false
-  xy: 4, 784
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_holographic_rituals
-  rotate: false
-  xy: 64, 844
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_housing
-  rotate: false
-  xy: 124, 904
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_housing
-  rotate: false
-  xy: 184, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_housing_agrarian_idyll
-  rotate: false
-  xy: 4, 724
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_hydroponics
-  rotate: false
-  xy: 64, 784
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_hyper_drive
-  rotate: false
-  xy: 124, 844
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_hyper_drive
-  rotate: false
-  xy: 184, 904
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_hyper_drive
-  rotate: false
-  xy: 244, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_hyper_entertainment_forum
-  rotate: false
-  xy: 4, 664
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_hyper_relays
-  rotate: false
-  xy: 64, 724
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_hypercomms_forum
-  rotate: false
-  xy: 124, 784
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_identity_copy
-  rotate: false
-  xy: 184, 844
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_identity_fusion
-  rotate: false
-  xy: 244, 904
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_identity_initialization
-  rotate: false
-  xy: 304, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_industrial_farming
-  rotate: false
-  xy: 4, 604
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_insterstellar_economics
-  rotate: false
-  xy: 64, 664
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_interplanetary_commerce
-  rotate: false
-  xy: 124, 724
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_interstellar_assembly
-  rotate: false
-  xy: 184, 784
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_interstellar_campaigns
-  rotate: false
-  xy: 244, 844
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_interstellar_economics
-  rotate: false
-  xy: 304, 904
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_interstellar_fleet_traditions
-  rotate: false
-  xy: 364, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_juggernaut
-  rotate: false
-  xy: 4, 544
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_jump_drive
-  rotate: false
-  xy: 64, 604
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_kinetic_artillery
-  rotate: false
-  xy: 124, 664
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_kinetic_artillery
-  rotate: false
-  xy: 184, 724
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_lasers
-  rotate: false
-  xy: 244, 784
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_lasers
-  rotate: false
-  xy: 304, 844
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_lasers
-  rotate: false
-  xy: 364, 904
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_lasers
-  rotate: false
-  xy: 424, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 4
-TechPortraits/tech_lasers
-  rotate: false
-  xy: 4, 484
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 5
-TechPortraits/tech_lathe_cogitator
-  rotate: false
-  xy: 64, 544
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_lathe_life_support
-  rotate: false
-  xy: 124, 604
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_lathe_overclocker
-  rotate: false
-  xy: 184, 664
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_lathe_preserver
-  rotate: false
-  xy: 244, 724
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_lathe_resonator
-  rotate: false
-  xy: 304, 784
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_lathe_validator
-  rotate: false
-  xy: 364, 844
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_leviathan_techgenesis
-  rotate: false
-  xy: 424, 904
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_leviathan_transgenesis
-  rotate: false
-  xy: 484, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_lgate_activation
-  rotate: false
-  xy: 4, 424
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_repeatable_lcluster_clue
-  rotate: false
-  xy: 4, 424
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_lithoid_transgenesis
-  rotate: false
-  xy: 64, 484
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_lost_building_methods
-  rotate: false
-  xy: 124, 544
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_luxuries
-  rotate: false
-  xy: 184, 604
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_luxuries
-  rotate: false
-  xy: 244, 664
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_lythuric_gas
-  rotate: false
-  xy: 304, 724
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_manifest_destiny
-  rotate: false
-  xy: 364, 784
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_mass_accelerator
-  rotate: false
-  xy: 424, 844
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_mass_accelerator
-  rotate: false
-  xy: 484, 904
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_mass_drivers
-  rotate: false
-  xy: 544, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_mass_drivers
-  rotate: false
-  xy: 4, 364
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_mass_drivers
-  rotate: false
-  xy: 64, 424
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_mass_drivers
-  rotate: false
-  xy: 124, 484
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 4
-TechPortraits/tech_mass_drivers
-  rotate: false
-  xy: 184, 544
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 5
-TechPortraits/tech_massive_glacier
-  rotate: false
-  xy: 244, 604
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_matter_decompressor
-  rotate: false
-  xy: 304, 664
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_mechanized_mining
-  rotate: false
-  xy: 364, 724
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_mega_art
-  rotate: false
-  xy: 424, 784
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_mega_assembly
-  rotate: false
-  xy: 484, 844
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_mega_engineering
-  rotate: false
-  xy: 544, 904
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_mega_shipyard
-  rotate: false
-  xy: 604, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_micro_replicators
-  rotate: false
-  xy: 4, 304
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_mine_betharian
-  rotate: false
-  xy: 64, 364
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_mine_living_metal
-  rotate: false
-  xy: 124, 424
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_mine_rare_crystals
-  rotate: false
-  xy: 184, 484
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_mine_zro
-  rotate: false
-  xy: 244, 544
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_mineral_purification
-  rotate: false
-  xy: 304, 604
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_mineral_purification
-  rotate: false
-  xy: 364, 664
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_mining
-  rotate: false
-  xy: 424, 724
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_mining
-  rotate: false
-  xy: 484, 784
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_mining
-  rotate: false
-  xy: 544, 844
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_mining_drone_weapon
-  rotate: false
-  xy: 604, 904
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_missiles
-  rotate: false
-  xy: 664, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_missiles
-  rotate: false
-  xy: 4, 244
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_missiles
-  rotate: false
-  xy: 64, 304
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_missiles
-  rotate: false
-  xy: 124, 364
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 4
-TechPortraits/tech_missiles
-  rotate: false
-  xy: 184, 424
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 5
-TechPortraits/tech_modular_engineering
-  rotate: false
-  xy: 244, 484
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_morphogenetic_field_mastery
-  rotate: false
-  xy: 304, 544
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_mountain_range
-  rotate: false
-  xy: 364, 604
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_nanite_assemblers
-  rotate: false
-  xy: 424, 664
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_robomodding_points
-  rotate: false
-  xy: 424, 664
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_nanite_autocannon
-  rotate: false
-  xy: 484, 724
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_nanite_flak_batteries
-  rotate: false
-  xy: 544, 784
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_nanite_repair_system
-  rotate: false
-  xy: 604, 844
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_nanite_repair_system_synth_queen
-  rotate: false
-  xy: 664, 904
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_nanite_transmutation
-  rotate: false
-  xy: 724, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_nano_vitality_crops
-  rotate: false
-  xy: 4, 184
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_neural_implants
-  rotate: false
-  xy: 64, 244
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_neuro_quantum_links
-  rotate: false
-  xy: 124, 304
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_neuroregeneration
-  rotate: false
-  xy: 184, 364
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_new_numbers
-  rotate: false
-  xy: 244, 424
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_node_culling
-  rotate: false
-  xy: 304, 484
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_node_culling
-  rotate: false
-  xy: 364, 544
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_node_culling
-  rotate: false
-  xy: 424, 604
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_node_reformatting
-  rotate: false
-  xy: 484, 664
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_node_reformatting
-  rotate: false
-  xy: 544, 724
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_node_reformatting
-  rotate: false
-  xy: 604, 784
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_noxious_swamp
-  rotate: false
-  xy: 664, 844
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_nutrient_replication
-  rotate: false
-  xy: 724, 904
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_offworld_trading
-  rotate: false
-  xy: 784, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_space_trading
-  rotate: false
-  xy: 784, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_orbital_arc_furnace
-  rotate: false
-  xy: 4, 124
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_orbital_ring_tier
-  rotate: false
-  xy: 64, 184
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_orbital_sensor_array
-  rotate: false
-  xy: 124, 244
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_orbital_trash_dispersal
-  rotate: false
-  xy: 184, 304
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_ordered_retreat
-  rotate: false
-  xy: 244, 364
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_paradise_dome
-  rotate: false
-  xy: 304, 424
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: -1
-TechPortraits/tech_pd_tracking
-  rotate: false
-  xy: 364, 484
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_pd_tracking
-  rotate: false
-  xy: 424, 544
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_pd_tracking
-  rotate: false
-  xy: 484, 604
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_penal_colonies
-  rotate: false
-  xy: 1084, 491
+  xy: 964, 163
   size: 45, 45
   orig: 45, 45
   offset: 0, 0
   index: -1
-TechPortraits/tech_perdition_beam
+TechPortraits/神经抑制器
   rotate: false
-  xy: 544, 664
+  xy: 4, 456
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_physics
+TechPortraits/神经植入体
   rotate: false
-  xy: 604, 724
+  xy: 4, 396
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_physics
-  rotate: false
-  xy: 664, 784
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_physics
-  rotate: false
-  xy: 724, 844
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_physics
-  rotate: false
-  xy: 784, 904
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 4
-TechPortraits/tech_pk_cracker
-  rotate: false
-  xy: 844, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
   index: -1
-TechPortraits/tech_pk_godray
+TechPortraits/神经组织工程
   rotate: false
-  xy: 4, 64
+  xy: 64, 456
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_pk_neutron
+TechPortraits/离子推进器
   rotate: false
-  xy: 64, 124
+  xy: 4, 336
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_pk_shielder
+TechPortraits/离子裂解炮
   rotate: false
-  xy: 124, 184
+  xy: 64, 396
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_planetary_defenses
+TechPortraits/科学方法
   rotate: false
-  xy: 184, 244
+  xy: 124, 456
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_planetary_government
+TechPortraits/科学枢纽建造
   rotate: false
-  xy: 244, 304
+  xy: 4, 276
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_planetary_infrastructure
+TechPortraits/稀有水晶开采
   rotate: false
-  xy: 304, 364
+  xy: 64, 336
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_planetary_infrastructure
-  rotate: false
-  xy: 364, 424
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_planetary_shield_generator
-  rotate: false
-  xy: 424, 484
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
   index: -1
-TechPortraits/tech_planetary_unification
+TechPortraits/稀有水晶精炼
   rotate: false
-  xy: 484, 544
+  xy: 124, 396
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_plantoid_transgenesis
+TechPortraits/突触建筑
   rotate: false
-  xy: 544, 604
+  xy: 184, 456
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_plasma
-  rotate: false
-  xy: 604, 664
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_plasma
-  rotate: false
-  xy: 664, 724
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_plasma
+TechPortraits/突触拦截器
   rotate: false
-  xy: 724, 784
+  xy: 4, 216
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 3
-TechPortraits/tech_positronic_implants
-  rotate: false
-  xy: 784, 844
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
   index: -1
-TechPortraits/tech_sapient_ai
+TechPortraits/等离子加农炮
   rotate: false
-  xy: 784, 844
+  xy: 64, 276
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_power_hub
-  rotate: false
-  xy: 844, 904
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_power_hub
-  rotate: false
-  xy: 904, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_power_plant
-  rotate: false
-  xy: 4, 4
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_power_plant
+TechPortraits/等离子加速器
   rotate: false
-  xy: 64, 64
+  xy: 124, 336
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 2
-TechPortraits/tech_power_plant
-  rotate: false
-  xy: 124, 124
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_power_plant
-  rotate: false
-  xy: 184, 184
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 4
-TechPortraits/tech_powered_exoskeletons
-  rotate: false
-  xy: 244, 244
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
   index: -1
-TechPortraits/tech_precognition_interface
+TechPortraits/等离子发射器
   rotate: false
-  xy: 304, 304
+  xy: 184, 396
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_predatory_tactics
+TechPortraits/等离子推进器
   rotate: false
-  xy: 364, 364
+  xy: 244, 456
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_prescient_data_modeling
+TechPortraits/策展人探索实验室
   rotate: false
-  xy: 424, 424
+  xy: 4, 156
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_probability_theory
+TechPortraits/策展人考古实验室
   rotate: false
-  xy: 484, 484
+  xy: 64, 216
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_project_cornucopia
+TechPortraits/管理型人工智能
   rotate: false
-  xy: 544, 544
+  xy: 124, 276
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_psi_jump_drive
+TechPortraits/簇状突触
   rotate: false
-  xy: 604, 604
+  xy: 184, 336
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_psi_jump_drives
-  rotate: false
-  xy: 664, 664
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
   index: -1
-TechPortraits/tech_psionic_barrier
+TechPortraits/粒子光矛
   rotate: false
-  xy: 724, 724
+  xy: 244, 396
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_psionic_shield
+TechPortraits/紫外激光发射器
   rotate: false
-  xy: 724, 724
+  xy: 304, 456
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_psionic_expand_consciousness
-  rotate: false
-  xy: 784, 784
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_psionic_expand_consciousness
-  rotate: false
-  xy: 844, 844
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_psionic_expand_consciousness
-  rotate: false
-  xy: 904, 904
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_psionic_sacrificial_volunteers
+TechPortraits/红激光发射器
   rotate: false
-  xy: 964, 964
+  xy: 4, 96
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_telepathy
+TechPortraits/纳米分离器
   rotate: false
-  xy: 964, 964
+  xy: 64, 156
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_psionic_theory
+TechPortraits/纳米力学
   rotate: false
-  xy: 64, 4
+  xy: 124, 216
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_pure_seed_farming
+TechPortraits/纳米变形
   rotate: false
-  xy: 124, 64
+  xy: 184, 276
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_quantum_catapult
+TechPortraits/纳米复合材料
   rotate: false
-  xy: 184, 124
+  xy: 244, 336
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_quicksand_basin
+TechPortraits/纳米活性作物
   rotate: false
-  xy: 244, 184
+  xy: 304, 396
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_rare_crystals
+TechPortraits/纳米电路装配
   rotate: false
-  xy: 304, 244
+  xy: 364, 456
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_reactor_boosters
-  rotate: false
-  xy: 364, 304
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_reactor_boosters
-  rotate: false
-  xy: 424, 364
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_reactor_boosters
-  rotate: false
-  xy: 484, 424
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_refit_standards
+TechPortraits/纳米矿物探测器
   rotate: false
-  xy: 544, 484
+  xy: 4, 36
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_regenerative_hull_tissue
+TechPortraits/线圈炮
   rotate: false
-  xy: 604, 544
+  xy: 64, 96
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_command_limit
+TechPortraits/组装算法
   rotate: false
-  xy: 664, 604
+  xy: 124, 156
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_improved_armor_output
+TechPortraits/细胞活力
   rotate: false
-  xy: 724, 664
+  xy: 184, 216
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_improved_army_damage
+TechPortraits/综合思维模式
   rotate: false
-  xy: 784, 724
+  xy: 244, 276
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_improved_army_health
+TechPortraits/资源处理算法
   rotate: false
-  xy: 844, 784
+  xy: 244, 276
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_improved_core_system_cap
+TechPortraits/耐钢合金
   rotate: false
-  xy: 904, 844
+  xy: 304, 336
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_improved_edict_length
+TechPortraits/耐钢基础设施
   rotate: false
-  xy: 964, 904
+  xy: 364, 396
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_improved_leader_cap
+TechPortraits/耐钢材料
   rotate: false
-  xy: 1024, 964
+  xy: 424, 456
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_improved_leader_life_span
+TechPortraits/聚变核导弹
   rotate: false
-  xy: 124, 4
+  xy: 64, 36
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_improved_military_station_damage
+TechPortraits/聚变能源
   rotate: false
-  xy: 184, 64
+  xy: 124, 96
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_improved_military_station_health
+TechPortraits/聚焦阵列
   rotate: false
-  xy: 244, 124
+  xy: 184, 156
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_improved_planet_sensor_range
+TechPortraits/聚能电弧发射器
   rotate: false
-  xy: 304, 184
+  xy: 244, 216
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_improved_sector_cap
+TechPortraits/能力增强
   rotate: false
-  xy: 364, 244
+  xy: 304, 276
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_improved_shield_output
+TechPortraits/脉冲推进器
   rotate: false
-  xy: 424, 304
+  xy: 364, 336
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_improved_ship_health
+TechPortraits/腺体适应
   rotate: false
-  xy: 484, 364
+  xy: 424, 396
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_improved_slave_mineral_output
+TechPortraits/自主运行空间站协议
   rotate: false
-  xy: 544, 424
+  xy: 484, 456
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_improved_starbase_capacity
+TechPortraits/自动探索协议
   rotate: false
-  xy: 604, 484
+  xy: 124, 36
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_improved_tile_energy_output
+TechPortraits/自动组装部件
   rotate: false
-  xy: 664, 544
+  xy: 184, 96
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_improved_tile_food_output
+TechPortraits/自动综合处理算法
   rotate: false
-  xy: 724, 604
+  xy: 244, 156
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_improved_tile_mineral_output
+TechPortraits/自动采矿无人机
   rotate: false
-  xy: 784, 664
+  xy: 304, 216
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_naval_cap
+TechPortraits/自我意识殖民船
   rotate: false
-  xy: 844, 724
+  xy: 364, 276
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_reduced_building_cost
+TechPortraits/自我演化逻辑
   rotate: false
-  xy: 904, 784
+  xy: 424, 336
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_reduced_building_time
+TechPortraits/自我眼花逻辑
   rotate: false
-  xy: 964, 844
+  xy: 424, 336
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_reduced_leader_cost
+TechPortraits/自适应作战算法
   rotate: false
-  xy: 1024, 904
+  xy: 484, 396
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_weapon_type_energy_damage
+TechPortraits/航母作战
   rotate: false
-  xy: 1084, 964
+  xy: 544, 456
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_weapon_type_energy_fire_rate
+TechPortraits/舰队支援
   rotate: false
-  xy: 184, 4
+  xy: 184, 36
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_weapon_type_explosive_damage
+TechPortraits/舰队管理规程
   rotate: false
-  xy: 244, 64
+  xy: 244, 96
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_weapon_type_explosive_fire_rate
+TechPortraits/舰队联络
   rotate: false
-  xy: 304, 124
+  xy: 304, 156
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_weapon_type_kinetic_damage
+TechPortraits/舰队阵型
   rotate: false
-  xy: 364, 184
+  xy: 364, 216
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_weapon_type_kinetic_fire_rate
+TechPortraits/营养复制
   rotate: false
-  xy: 424, 244
+  xy: 424, 276
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_weapon_type_strike_craft_fire_damage
+TechPortraits/蒸馏泽珞
   rotate: false
-  xy: 484, 304
+  xy: 484, 336
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_repeatable_weapon_type_strike_craft_fire_rate
+TechPortraits/蓝激光发射器
   rotate: false
-  xy: 544, 364
+  xy: 544, 396
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_resort_colonies
+TechPortraits/虫洞稳定
   rotate: false
-  xy: 604, 424
+  xy: 604, 456
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_resource_processing_algorithms
+TechPortraits/虫群产卵池
   rotate: false
-  xy: 664, 484
+  xy: 244, 36
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_synthetic_thought_patterns
+TechPortraits/蜂群导弹
   rotate: false
-  xy: 664, 484
+  xy: 304, 96
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_rift_sphere
+TechPortraits/行政效率
   rotate: false
-  xy: 724, 544
+  xy: 364, 156
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_ring_world
+TechPortraits/行星护盾
   rotate: false
-  xy: 784, 604
+  xy: 424, 216
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_robomodding
+TechPortraits/行星政府
   rotate: false
-  xy: 844, 664
+  xy: 484, 276
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_robomodding_m
+TechPortraits/行星电力网
   rotate: false
-  xy: 844, 664
+  xy: 544, 336
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_robotic_workers
+TechPortraits/行星统一
   rotate: false
-  xy: 904, 724
+  xy: 604, 396
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_sacred_nexus
+TechPortraits/行星防御
   rotate: false
-  xy: 964, 784
+  xy: 664, 456
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_satisfying_insults
+TechPortraits/表观遗传学机制
   rotate: false
-  xy: 1024, 844
+  xy: 304, 36
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_science_nexus
+TechPortraits/裂变能源
   rotate: false
-  xy: 1084, 904
+  xy: 364, 96
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_scourge_missile
-  rotate: false
-  xy: 1144, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_secrets_baol
+TechPortraits/裂解炮
   rotate: false
-  xy: 244, 4
+  xy: 424, 156
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_secrets_cybrex
+TechPortraits/装甲鱼雷
   rotate: false
-  xy: 304, 64
+  xy: 484, 216
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_secrets_irassian
+TechPortraits/装载效率
   rotate: false
-  xy: 364, 124
+  xy: 544, 276
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_secrets_league
+TechPortraits/装配模式
   rotate: false
-  xy: 424, 184
+  xy: 604, 336
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_secrets_vultaum
+TechPortraits/规模效应
   rotate: false
-  xy: 484, 244
+  xy: 664, 396
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_secrets_yuht
+TechPortraits/试验性亚空间导航
   rotate: false
-  xy: 544, 304
+  xy: 724, 456
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_secrets_zroni
+TechPortraits/贝赛里安精炼
   rotate: false
-  xy: 604, 364
+  xy: 364, 36
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_selected_lineages
+TechPortraits/质子发射器
   rotate: false
-  xy: 664, 424
+  xy: 424, 96
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_self_assembling_components
+TechPortraits/质量投射器
   rotate: false
-  xy: 724, 484
+  xy: 484, 156
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_self_aware_logic
+TechPortraits/超体进化
   rotate: false
-  xy: 784, 544
+  xy: 544, 216
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_sensors
-  rotate: false
-  xy: 844, 604
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_sensors
-  rotate: false
-  xy: 904, 664
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_sensors
-  rotate: false
-  xy: 964, 724
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 4
-TechPortraits/tech_sentry_array
+TechPortraits/超光速抑制
   rotate: false
-  xy: 1024, 784
+  xy: 604, 276
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_shield_hardeners
-  rotate: false
-  xy: 1084, 844
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_shield_hardeners
-  rotate: false
-  xy: 1144, 904
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_shield_recharge_aura
-  rotate: false
-  xy: 1204, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_shield_rechargers
-  rotate: false
-  xy: 304, 4
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_shields
-  rotate: false
-  xy: 364, 64
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_shields
-  rotate: false
-  xy: 424, 124
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_shields
-  rotate: false
-  xy: 484, 184
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_shields
-  rotate: false
-  xy: 544, 244
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 4
-TechPortraits/tech_shields
-  rotate: false
-  xy: 604, 304
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 5
-TechPortraits/tech_ship_armor
-  rotate: false
-  xy: 664, 364
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_ship_armor
-  rotate: false
-  xy: 724, 424
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_ship_armor
-  rotate: false
-  xy: 784, 484
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_ship_armor
-  rotate: false
-  xy: 844, 544
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 4
-TechPortraits/tech_ship_armor
-  rotate: false
-  xy: 904, 604
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 5
-TechPortraits/tech_singularity_core
+TechPortraits/超固体材料
   rotate: false
-  xy: 964, 664
+  xy: 664, 336
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_slave_colonies
+TechPortraits/超导应用
   rotate: false
-  xy: 1024, 724
+  xy: 724, 396
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_society
-  rotate: false
-  xy: 1084, 784
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_society
-  rotate: false
-  xy: 1144, 844
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_society
-  rotate: false
-  xy: 1204, 904
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_society
-  rotate: false
-  xy: 1264, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 4
-TechPortraits/tech_solar_panel_network
+TechPortraits/超意识信仰
   rotate: false
-  xy: 364, 4
+  xy: 784, 456
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_space_cloud_weapon
-  rotate: false
-  xy: 424, 64
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_space_construction
+TechPortraits/超流体材料
   rotate: false
-  xy: 484, 124
+  xy: 424, 36
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_space_defense_station
-  rotate: false
-  xy: 544, 184
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_space_defense_station_improvement
+TechPortraits/超空间中继器建造
   rotate: false
-  xy: 604, 244
+  xy: 484, 96
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_space_exploration
+TechPortraits/超空间滑流
   rotate: false
-  xy: 664, 304
+  xy: 544, 156
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_space_mining
-  rotate: false
-  xy: 724, 364
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_space_mining
-  rotate: false
-  xy: 784, 424
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_space_mining
-  rotate: false
-  xy: 844, 484
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_space_mining
+TechPortraits/超空间移动
   rotate: false
-  xy: 904, 544
+  xy: 604, 216
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 4
-TechPortraits/tech_space_mining
-  rotate: false
-  xy: 964, 604
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 5
-TechPortraits/tech_space_science
-  rotate: false
-  xy: 1024, 664
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_space_science
-  rotate: false
-  xy: 1084, 724
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_space_science
-  rotate: false
-  xy: 1144, 784
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_space_science
-  rotate: false
-  xy: 1204, 844
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 4
-TechPortraits/tech_space_science
-  rotate: false
-  xy: 1264, 904
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 5
-TechPortraits/tech_space_whale_weapon
-  rotate: false
-  xy: 1324, 964
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_starbase1
-  rotate: false
-  xy: 424, 4
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
   index: -1
-TechPortraits/tech_starbase2
+TechPortraits/超空间航道突破点
   rotate: false
-  xy: 484, 64
+  xy: 664, 276
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_starbase3
+TechPortraits/超级护盾
   rotate: false
-  xy: 544, 124
+  xy: 724, 336
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_starbase4
+TechPortraits/跃迁引擎
   rotate: false
-  xy: 604, 184
+  xy: 784, 396
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_starbase5
+TechPortraits/跨行星研究倡议
   rotate: false
-  xy: 664, 244
+  xy: 844, 456
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_strategic_coordination
+TechPortraits/轨道垃圾散布
   rotate: false
-  xy: 724, 304
+  xy: 484, 36
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_strike_craft
-  rotate: false
-  xy: 784, 364
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_strike_craft
-  rotate: false
-  xy: 844, 424
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 2
-TechPortraits/tech_strike_craft
-  rotate: false
-  xy: 904, 484
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 3
-TechPortraits/tech_strike_craft_skrand
+TechPortraits/轨道居住站
   rotate: false
-  xy: 964, 544
+  xy: 544, 96
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_subdermal_stimulation
+TechPortraits/轨道炮
   rotate: false
-  xy: 1024, 604
+  xy: 604, 156
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_subspace_drive
+TechPortraits/轨道能源转化技术
   rotate: false
-  xy: 1084, 664
+  xy: 664, 216
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_supreme_alloy
+TechPortraits/转基因作物
   rotate: false
-  xy: 1144, 724
+  xy: 724, 276
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_swarm_strike_craft
-  rotate: false
-  xy: 1204, 784
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_swarmer_missiles
-  rotate: false
-  xy: 1264, 844
-  size: 52, 52
-  orig: 52, 52
-  offset: 0, 0
-  index: 1
-TechPortraits/tech_swarmer_missiles
+TechPortraits/辅助火控
   rotate: false
-  xy: 1324, 904
+  xy: 784, 336
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 2
-TechPortraits/tech_symbol_unity
+  index: -1
+TechPortraits/远距离矿物扫描仪
   rotate: false
-  xy: 1384, 964
+  xy: 844, 396
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_synchronized_defences
+TechPortraits/迭代式飞行员培训
   rotate: false
-  xy: 484, 4
+  xy: 904, 456
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_synchronized_work_patterns
+TechPortraits/追踪植入体
   rotate: false
-  xy: 544, 64
+  xy: 544, 36
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_synth_queen_knowledge
+TechPortraits/逆时间密钥
   rotate: false
-  xy: 604, 124
+  xy: 604, 96
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_synthetic_leaders
+TechPortraits/选择性脱叶剂
   rotate: false
-  xy: 664, 184
+  xy: 664, 156
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_synthetic_optimized_algorithms
+TechPortraits/采矿无人机激光
   rotate: false
-  xy: 724, 244
+  xy: 724, 216
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_synthetic_optimized_algorithms
+  index: -1
+TechPortraits/重力传感器
   rotate: false
-  xy: 784, 304
+  xy: 784, 276
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 2
-TechPortraits/tech_synthetic_optimized_algorithms
+  index: -1
+TechPortraits/重型高射炮
   rotate: false
-  xy: 844, 364
+  xy: 844, 336
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 3
-TechPortraits/tech_synthetic_workers
+  index: -1
+TechPortraits/量子导弹
   rotate: false
-  xy: 904, 424
+  xy: 904, 396
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_temple_of_transportation
+TechPortraits/量子弹弓建造
   rotate: false
-  xy: 964, 484
+  xy: 964, 456
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_terrestrial_sculpting
+TechPortraits/量子探测器
   rotate: false
-  xy: 1024, 544
+  xy: 604, 36
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_thought_enforcement
+TechPortraits/量子操控场
   rotate: false
-  xy: 1084, 604
+  xy: 664, 96
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_thrusters
+TechPortraits/量子理论
   rotate: false
-  xy: 1144, 664
+  xy: 724, 156
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_thrusters
+  index: -1
+TechPortraits/量子能态
   rotate: false
-  xy: 1204, 724
+  xy: 784, 216
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 2
-TechPortraits/tech_thrusters
+  index: -1
+TechPortraits/量子防火墙
   rotate: false
-  xy: 1264, 784
+  xy: 844, 276
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 3
-TechPortraits/tech_thrusters
+  index: -1
+TechPortraits/量子骇客
   rotate: false
-  xy: 1324, 844
+  xy: 904, 336
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 4
-TechPortraits/tech_titan_hull
+  index: -1
+TechPortraits/陶瓷合金
   rotate: false
-  xy: 1384, 904
+  xy: 964, 396
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_titan_hull
+  index: -1
+TechPortraits/集中指挥
   rotate: false
-  xy: 1444, 964
+  xy: 1024, 456
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 2
-TechPortraits/tech_titans
+  index: -1
+TechPortraits/零点能源
   rotate: false
-  xy: 544, 4
+  xy: 664, 36
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_tomb_world_adaption
+TechPortraits/零素材料
   rotate: false
-  xy: 604, 64
+  xy: 724, 96
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_torpedoes
+TechPortraits/零重力实验室
   rotate: false
-  xy: 664, 124
+  xy: 784, 156
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 1
-TechPortraits/tech_torpedoes
+  index: -1
+TechPortraits/零重力精炼厂
   rotate: false
-  xy: 724, 184
+  xy: 844, 216
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 2
-TechPortraits/tech_torpedoes
+  index: -1
+TechPortraits/雷云导线
   rotate: false
-  xy: 784, 244
+  xy: 904, 276
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 3
-TechPortraits/tech_toxic_kelp
+  index: -1
+TechPortraits/预测消费
   rotate: false
-  xy: 844, 304
+  xy: 964, 336
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_tracking_implants
+TechPortraits/预测算法
   rotate: false
-  xy: 904, 364
+  xy: 1024, 396
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_transcendent_faith
+TechPortraits/预知接口
   rotate: false
-  xy: 964, 424
+  xy: 1084, 456
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_trinary_computing
+TechPortraits/频率调谐
   rotate: false
-  xy: 1024, 484
+  xy: 724, 36
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_unity_of_purpose
+TechPortraits/飞升理论
   rotate: false
-  xy: 1084, 544
+  xy: 784, 96
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_unusual_senses
+TechPortraits/食品加工
   rotate: false
-  xy: 1144, 604
+  xy: 844, 156
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_vitality_boosters
+TechPortraits/驱逐舰
   rotate: false
-  xy: 1204, 664
+  xy: 904, 216
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_volatile_motes
+TechPortraits/高密度弹药
   rotate: false
-  xy: 1264, 724
+  xy: 964, 276
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_volcano
+TechPortraits/高射加农炮
   rotate: false
-  xy: 1324, 784
+  xy: 1024, 336
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_wormhole_generation
+TechPortraits/高射炮
   rotate: false
-  xy: 1384, 844
+  xy: 1084, 396
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
-  index: 3
-TechPortraits/tech_wormhole_stabilization
+  index: -1
+TechPortraits/高效吏治
   rotate: false
-  xy: 1384, 844
+  xy: 1144, 456
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_xeno_aesthetics
+TechPortraits/高斯炮
   rotate: false
-  xy: 1444, 904
+  xy: 784, 36
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_xeno_diplomacy
+TechPortraits/高管休闲项目
   rotate: false
-  xy: 1504, 964
+  xy: 844, 96
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_xeno_linguistics
+TechPortraits/高级作战电脑
   rotate: false
-  xy: 604, 4
+  xy: 904, 156
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_xeno_relations
+TechPortraits/高级太空居住站
   rotate: false
-  xy: 664, 64
+  xy: 964, 216
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_xeno_tourism_agency
+TechPortraits/高级食品加工
   rotate: false
-  xy: 724, 124
+  xy: 1024, 276
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_xeno_zoo
+TechPortraits/高维武器
   rotate: false
-  xy: 784, 184
+  xy: 1084, 336
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/tech_zero_point_power
+TechPortraits/高能电容器
   rotate: false
-  xy: 844, 244
+  xy: 1144, 396
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
-TechPortraits/unknown
+TechPortraits/齐心协力
   rotate: false
-  xy: 904, 304
+  xy: 1204, 456
   size: 52, 52
   orig: 52, 52
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/TopBorder
   rotate: false
-  xy: 1204, 628
+  xy: 1024, 240
   size: 32, 28
   orig: 32, 28
   offset: 0, 0

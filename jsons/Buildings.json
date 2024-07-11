@@ -17,7 +17,7 @@
         "name": "building_Monument",
         "cost": 50,
         "maintenance": 2,
-        "requiredTech": "tech_CulturalHistory",
+        // "requiredTech": "tech_CulturalHistory",
         "faith": 3,
         "uniques":[
             "Consumes [5] [resource_Labor]"
@@ -32,10 +32,10 @@
         "name": "building_Temple",
         "cost": 80,
         "maintenance": 3,
-        "requiredTech": "soci.CulturalHistory",
+        // "requiredTech": "soci.CulturalHistory",
         "faith": 5,
         "uniques":[
-            "Only available <after adopting [idt_Idealism]>",
+            "Only available <after adopting [意识主义]>",
             "Consumes [5] [resource_Labor]"
         ],
         "civilopediaText":[

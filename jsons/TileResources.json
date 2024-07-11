@@ -1,8 +1,8 @@
 [
     {
-        "name":"resource_Mine",
+        "name":"资源_矿物",
         "resourceType":"Strategic",
-        "revealedBy":"phy.NebulaSpaceStation",
+        "revealedBy":"科学方法",
         "uniques":[
             "Stockpiled"
         ]
@@ -10,7 +10,7 @@
     {
         "name":"resource_PortableFood",
         "resourceType":"Strategic",
-        "revealedBy":"phy.NebulaSpaceStation",
+        "revealedBy":"科学方法",
         "uniques":[
             "Stockpiled"
         ]
@@ -18,7 +18,7 @@
     {
         "name":"resource_Alloy",
         "resourceType":"Strategic",
-        "revealedBy":"phy.NebulaSpaceStation",
+        "revealedBy":"科学方法",
         "uniques":[
             "Stockpiled"
         ]
@@ -26,7 +26,7 @@
     {
         "name":"resource_ConsumerGoods",
         "resourceType":"Strategic",
-        "revealedBy":"phy.NebulaSpaceStation",
+        "revealedBy":"科学方法",
         "uniques":[
             "Stockpiled"
         ]
