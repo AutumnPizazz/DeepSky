@@ -25,6 +25,7 @@
         "pantheonGrowth": 0
     },
     "uniques":[
-        "Cannot be used as permanent audiovisual mod"
+        "Cannot be used as permanent audiovisual mod",
+        "Can only start games from the starting era"
     ]
 }
