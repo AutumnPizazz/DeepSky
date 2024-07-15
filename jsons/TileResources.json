@@ -1,6 +1,6 @@
 [
     {
-        "name":"资源_矿物",
+        "name":"矿物",
         "resourceType":"Strategic",
         "revealedBy":"科学方法",
         "uniques":[
@@ -8,7 +8,7 @@
         ]
     },
     {
-        "name":"resource_PortableFood",
+        "name":"粮食",
         "resourceType":"Strategic",
         "revealedBy":"科学方法",
         "uniques":[
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "name":"resource_Alloy",
+        "name":"合金",
         "resourceType":"Strategic",
         "revealedBy":"科学方法",
         "uniques":[
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "name":"resource_ConsumerGoods",
+        "name":"消费品",
         "resourceType":"Strategic",
         "revealedBy":"科学方法",
         "uniques":[
@@ -32,7 +32,7 @@
         ]
     },
     {
-        "name":"resource_Labor",
+        "name":"人力",
         "resourceType":"Strategic",
         "uniques":[
             "City-level resource"

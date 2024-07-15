@@ -1,16 +1,15 @@
 [
-	//基本地形
-	{//乏物深空
-		"name": "terrain_CosmicVoids",
+	{
+		"name": "深空",
 		"type": "Water",
 		"movementCost": 1,
 		"RGB": [0, 10, 40],
 		"uniques": [
-			"Becomes [terrain_InterstellarMedium] when adjacent to [Land]"
+			"Becomes [星际介质] when adjacent to [Land]"
 		]
 	},
-	{//星际介质
-		"name": "terrain_InterstellarMedium",
+	{
+		"name": "星际介质",
 		"type": "Water",
 		"movementCost": 1,
 		"RGB": [25, 40, 120],
@@ -18,18 +17,17 @@
             "Every [20] tiles with this terrain will receive a major deposit of a strategic resource."
 		]
 	},
-	{//稀薄星云
-		"name": "terrain_Nebulae",
+	{
+		"name": "星尘",
 		"type": "Land",
 		"movementCost": 1,
         "RGB": [30, 90, 150],
         "uniques": [
-			"A Region is formed with at least [50]% [terrain_Nebulae] tiles, with priority [5]"
-            // "Every [10] tiles with this terrain will receive a major deposit of a strategic resource."
+			"A Region is formed with at least [50]% [星尘] tiles, with priority [5]"
 		]
     },
-	{//星云
-		"name": "terrain_RichNebulae",
+	{
+		"name": "富庶星尘",
 		"type": "Land",
 		"movementCost": 1,
         "RGB": [30, 90, 150],
@@ -37,10 +35,10 @@
 			"Doesn't generate naturally"
 		]
     },
-	{//星云居住站
-		"name": "terrain_HabitableNebulaStation",
+	{
+		"name": "星尘居住站",
 		"type": "TerrainFeature",
-		"occursOn":["terrain_Nebulae"],
+		"occursOn":["星尘"],
 		"movementCost": 1,
 		"RGB": [30, 90, 150],
 		"uniques": [
@@ -51,30 +49,30 @@
 
 
 
-	{//黑洞
-		"name": "terrain_BlackHole",
+	{
+		"name": "黑洞",
 		"type": "TerrainFeature",
-		"occursOn":["terrain_Nebulae"],
+		"occursOn":["星尘"],
 		"movementCost": 1,
 		"RGB": [255, 255, 255],
 		"uniques": [
 			"Doesn't generate naturally"
 		]
 	},
-	{//恒星
-		"name": "terrain_Stellar",
+	{
+		"name": "恒星",
 		"type": "TerrainFeature",
-		"occursOn":["terrain_Nebulae"],
+		"occursOn":["星尘"],
 		"movementCost": 1,
 		"RGB": [255, 255, 255],
 		"uniques": [
 			"Doesn't generate naturally"
 		]
 	},
-	{//行星
-		"name": "terrain_Planetary",
+	{
+		"name": "行星",
 		"type": "TerrainFeature",
-		"occursOn":["terrain_Nebulae"],
+		"occursOn":["星尘"],
 		"movementCost": 1,
 		"RGB": [50, 100, 150],
 		"uniques": [

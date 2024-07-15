@@ -1,6 +1,6 @@
 [
     {
-        "name": "speed_Default",
+        "name": "默认速度",
         "modifier":1.0,
         "religiousPressureAdjacentCity": 0,
         "peaceDealDuration": 8,

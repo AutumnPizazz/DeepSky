@@ -1,10 +1,10 @@
 [
     {
-        "name":"event_StartGame",
-        "text":"event_StartGame_desc",
+        "name":"开始游戏",
+        "text":"欢迎游玩DeepSky！\n\n这是中国人SpringPizazz倾力打造的基于群星Stellaris的模组，如有BUG请加入QQ群747588919反馈。",
         "choices":[
             {
-                "text":"event_StartGame_choice1_desc"
+                "text":"开始游玩DeepSky！"
             }
         ]
     },
@@ -34,5 +34,5 @@
                 "text":"这能有什么坏处？"
             }
         ]
-    },
+    }
 ]

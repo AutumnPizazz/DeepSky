@@ -1,0 +1,9 @@
+####################  adjustment for G&K  ####################
+
+Gold = 能量币
+Happiness = 威望
+Culture = 权威力
+Faith = 凝聚力
+Religion = 国民理念
+The Unknowable = 不可知者
+City center = 居住点

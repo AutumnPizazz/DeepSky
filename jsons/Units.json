@@ -1,28 +1,26 @@
 [
 	{
-		"name": "unit_ColonialPioneer",
-		"unitType": "unitType_Civilian",
-		// "requiredTech":"phy.NebulaSpaceStation",
+		"name": "先驱殖民船",
+		"unitType": "民用舰队",
 		"cost": 1,
 		"movement": 2,
 		"uniques":[
 			"Unavailable",
-			"Turn this tile into a [terrain_HabitableNebulaStation] tile <for [1] movement> <[1] times> <in [terrain_Nebulae] tiles>",
-			"Founds a new city <in [terrain_HabitableNebulaStation] tiles>",
-			// "Triggers a [event_StartGame] event"
+			"Turn this tile into a [星尘居住站] tile <for [1] movement> <[1] times> <in [星尘] tiles>",
+			"Founds a new city <in [星尘居住站] tiles>"
 		]
 	},
 	{
-		"name": "unit_NebulaStationBuilder",
-		"unitType": "unitType_Civilian",
+		"name": "工程船",
+		"unitType": "民用舰队",
 		"cost": 10,
 		"movement": 2,
 		"uniques":[]
 	},
 
 	{
-		"name": "unit_Frigate",
-		"unitType": "unitType_Navy",
+		"name": "护卫舰",
+		"unitType": "海军",
 		"cost": 1,
 		"strength": 100,
 		"movement": 2,

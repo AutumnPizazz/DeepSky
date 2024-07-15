@@ -1,6 +1,6 @@
 [
 	{
-		"name": "difficulty_Default",
+		"name": "默认难度",
 		"baseHappiness": 0,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,

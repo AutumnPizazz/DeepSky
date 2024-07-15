@@ -5,9 +5,8 @@
 //		"innerColor": [255,255,255]
 	},
 	{
-		"name": "origion_Hyacinth",
+		"name": "风信子号",
 		"leaderName": "The Unknowable",
-		"adjective": ["origion_Hyacinth"],
 	
 		"outerColor": [72, 61, 139],
 		"innerColor": [255, 215, 0],
@@ -20,9 +19,8 @@
 		"cities": ["天津四"]
 	},
 	{
-		"name": "origion_Ark",
+		"name": "方舟号",
 		"leaderName": "The Unknowable",
-		"adjective": ["origion_Ark"],
 	
 		"outerColor": [0, 104, 183],
 		"innerColor": [255, 255, 255],

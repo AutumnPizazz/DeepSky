@@ -1,6 +1,6 @@
 [
     {
-        "name": "victoryType_Unification",
+        "name": "分数胜利",
         "milestones": [
             "Have highest score after max turns"
         ]

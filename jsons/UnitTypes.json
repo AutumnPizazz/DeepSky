@@ -1,10 +1,10 @@
 [
     {
-        "name": "unitType_Civilian",
+        "name": "民用舰队",
         "movementType": "Land"
     },
     {
-        "name": "unitType_Navy",
+        "name": "海军",
         "movementType": "Land"
-    },
+    }
 ]

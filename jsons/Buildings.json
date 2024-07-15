@@ -1,6 +1,6 @@
 [
     {
-        "name": "building_Palace",
+        "name": "领袖行宫",
         "isNationalWonder": true,
         "gold": 10,
         "cityStrength": 50,
@@ -9,38 +9,35 @@
         "culture": 2,
         "cost": 1,
         "uniques": [
-            "Indicates the capital city",
-            // "Triggers a [event_StartGame] event <when number of [year] is less than [2210]> <hidden from users>"
+            "Indicates the capital city"
         ]
     },
     {
-        "name": "building_Monument",
+        "name": "先驱者纪念碑",
         "cost": 50,
         "maintenance": 2,
-        // "requiredTech": "tech_CulturalHistory",
         "faith": 3,
         "uniques":[
-            "Consumes [5] [resource_Labor]"
+            "Consumes [5] [人力]"
         ],
         "civilopediaText":[
             {
-                "text": "building_Monument_desc"
+                "text": "为纪念最初踏足星空的先驱者而建立的纪念碑。"
             }
         ]
     },
     {
-        "name": "building_Temple",
+        "name": "寺庙",
         "cost": 80,
         "maintenance": 3,
-        // "requiredTech": "soci.CulturalHistory",
         "faith": 5,
         "uniques":[
             "Only available <after adopting [意识主义]>",
-            "Consumes [5] [resource_Labor]"
+            "Consumes [5] [人力]"
         ],
         "civilopediaText":[
             {
-                "text": "building_Temple_desc"
+                "text": "作为太古时代便矗立着的简单建筑，神殿一直充当着是静思和同神灵交流的场所。"
             }
         ]
 
